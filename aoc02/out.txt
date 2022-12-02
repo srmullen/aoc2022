@@ -1,0 +1,5001 @@
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: B X, score: 1
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 2, win: 6
+Round: A Y, score: 8
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: A Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 1, win: 6
+Round: C X, score: 7
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: C Y, score: 2
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 2, win: 0
+Round: B Y, score: 2
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 1, win: 0
+Round: A X, score: 1
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 6
+Round: B Z, score: 9
+hand: 3, win: 0
+Round: C Z, score: 3
+hand: 3, win: 0
+Round: C Z, score: 3
+Answer: 11918

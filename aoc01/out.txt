@@ -1,0 +1,4259 @@
+s: 18814, empty?: false
+s: 18814, n: 18814, acc[1]: 0
+s: , empty?: true
+None: [0, 18814]
+s: 1927, empty?: false
+s: 1927, n: 1927, acc[1]: 0
+s: 12782, empty?: false
+s: 12782, n: 12782, acc[1]: 1927
+s: 8734, empty?: false
+s: 8734, n: 8734, acc[1]: 14709
+s: 10904, empty?: false
+s: 10904, n: 10904, acc[1]: 23443
+s: 9548, empty?: false
+s: 9548, n: 9548, acc[1]: 34347
+s: 1493, empty?: false
+s: 1493, n: 1493, acc[1]: 43895
+s: , empty?: true
+None: [18814, 45388]
+s: 4576, empty?: false
+s: 4576, n: 4576, acc[1]: 0
+s: 4235, empty?: false
+s: 4235, n: 4235, acc[1]: 4576
+s: 2617, empty?: false
+s: 2617, n: 2617, acc[1]: 8811
+s: 1012, empty?: false
+s: 1012, n: 1012, acc[1]: 11428
+s: 2088, empty?: false
+s: 2088, n: 2088, acc[1]: 12440
+s: 1325, empty?: false
+s: 1325, n: 1325, acc[1]: 14528
+s: 1249, empty?: false
+s: 1249, n: 1249, acc[1]: 15853
+s: 5173, empty?: false
+s: 5173, n: 5173, acc[1]: 17102
+s: 4893, empty?: false
+s: 4893, n: 4893, acc[1]: 22275
+s: 3295, empty?: false
+s: 3295, n: 3295, acc[1]: 27168
+s: 2376, empty?: false
+s: 2376, n: 2376, acc[1]: 30463
+s: 2714, empty?: false
+s: 2714, n: 2714, acc[1]: 32839
+s: 6210, empty?: false
+s: 6210, n: 6210, acc[1]: 35553
+s: , empty?: true
+s: 6684, empty?: false
+s: 6684, n: 6684, acc[1]: 0
+s: 5766, empty?: false
+s: 5766, n: 5766, acc[1]: 6684
+s: 3442, empty?: false
+s: 3442, n: 3442, acc[1]: 12450
+s: 4901, empty?: false
+s: 4901, n: 4901, acc[1]: 15892
+s: 4875, empty?: false
+s: 4875, n: 4875, acc[1]: 20793
+s: 4815, empty?: false
+s: 4815, n: 4815, acc[1]: 25668
+s: 5898, empty?: false
+s: 5898, n: 5898, acc[1]: 30483
+s: 2410, empty?: false
+s: 2410, n: 2410, acc[1]: 36381
+s: 5789, empty?: false
+s: 5789, n: 5789, acc[1]: 38791
+s: 4133, empty?: false
+s: 4133, n: 4133, acc[1]: 44580
+s: 3590, empty?: false
+s: 3590, n: 3590, acc[1]: 48713
+s: 1342, empty?: false
+s: 1342, n: 1342, acc[1]: 52303
+s: , empty?: true
+None: [45388, 53645]
+s: 8867, empty?: false
+s: 8867, n: 8867, acc[1]: 0
+s: 7109, empty?: false
+s: 7109, n: 7109, acc[1]: 8867
+s: 2904, empty?: false
+s: 2904, n: 2904, acc[1]: 15976
+s: 5810, empty?: false
+s: 5810, n: 5810, acc[1]: 18880
+s: 3254, empty?: false
+s: 3254, n: 3254, acc[1]: 24690
+s: 4257, empty?: false
+s: 4257, n: 4257, acc[1]: 27944
+s: 2508, empty?: false
+s: 2508, n: 2508, acc[1]: 32201
+s: 3580, empty?: false
+s: 3580, n: 3580, acc[1]: 34709
+s: 5494, empty?: false
+s: 5494, n: 5494, acc[1]: 38289
+s: , empty?: true
+s: 11885, empty?: false
+s: 11885, n: 11885, acc[1]: 0
+s: 14638, empty?: false
+s: 14638, n: 14638, acc[1]: 11885
+s: 11891, empty?: false
+s: 11891, n: 11891, acc[1]: 26523
+s: 4244, empty?: false
+s: 4244, n: 4244, acc[1]: 38414
+s: , empty?: true
+s: 11603, empty?: false
+s: 11603, n: 11603, acc[1]: 0
+s: 17113, empty?: false
+s: 17113, n: 17113, acc[1]: 11603
+s: , empty?: true
+s: 8341, empty?: false
+s: 8341, n: 8341, acc[1]: 0
+s: 2993, empty?: false
+s: 2993, n: 2993, acc[1]: 8341
+s: 7759, empty?: false
+s: 7759, n: 7759, acc[1]: 11334
+s: 7219, empty?: false
+s: 7219, n: 7219, acc[1]: 19093
+s: 2962, empty?: false
+s: 2962, n: 2962, acc[1]: 26312
+s: 8020, empty?: false
+s: 8020, n: 8020, acc[1]: 29274
+s: 6176, empty?: false
+s: 6176, n: 6176, acc[1]: 37294
+s: 6100, empty?: false
+s: 6100, n: 6100, acc[1]: 43470
+s: 6168, empty?: false
+s: 6168, n: 6168, acc[1]: 49570
+s: 5467, empty?: false
+s: 5467, n: 5467, acc[1]: 55738
+s: , empty?: true
+None: [53645, 61205]
+s: 8884, empty?: false
+s: 8884, n: 8884, acc[1]: 0
+s: 11521, empty?: false
+s: 11521, n: 11521, acc[1]: 8884
+s: 3912, empty?: false
+s: 3912, n: 3912, acc[1]: 20405
+s: 2993, empty?: false
+s: 2993, n: 2993, acc[1]: 24317
+s: 13471, empty?: false
+s: 13471, n: 13471, acc[1]: 27310
+s: , empty?: true
+s: 3093, empty?: false
+s: 3093, n: 3093, acc[1]: 0
+s: 4064, empty?: false
+s: 4064, n: 4064, acc[1]: 3093
+s: 9130, empty?: false
+s: 9130, n: 9130, acc[1]: 7157
+s: 7665, empty?: false
+s: 7665, n: 7665, acc[1]: 16287
+s: 10440, empty?: false
+s: 10440, n: 10440, acc[1]: 23952
+s: 6175, empty?: false
+s: 6175, n: 6175, acc[1]: 34392
+s: 7390, empty?: false
+s: 7390, n: 7390, acc[1]: 40567
+s: 10297, empty?: false
+s: 10297, n: 10297, acc[1]: 47957
+s: , empty?: true
+s: 29896, empty?: false
+s: 29896, n: 29896, acc[1]: 0
+s: 7553, empty?: false
+s: 7553, n: 7553, acc[1]: 29896
+s: , empty?: true
+s: 3709, empty?: false
+s: 3709, n: 3709, acc[1]: 0
+s: 5876, empty?: false
+s: 5876, n: 5876, acc[1]: 3709
+s: 3564, empty?: false
+s: 3564, n: 3564, acc[1]: 9585
+s: 3824, empty?: false
+s: 3824, n: 3824, acc[1]: 13149
+s: 7695, empty?: false
+s: 7695, n: 7695, acc[1]: 16973
+s: 6789, empty?: false
+s: 6789, n: 6789, acc[1]: 24668
+s: 4295, empty?: false
+s: 4295, n: 4295, acc[1]: 31457
+s: 1603, empty?: false
+s: 1603, n: 1603, acc[1]: 35752
+s: 2170, empty?: false
+s: 2170, n: 2170, acc[1]: 37355
+s: 1004, empty?: false
+s: 1004, n: 1004, acc[1]: 39525
+s: 7871, empty?: false
+s: 7871, n: 7871, acc[1]: 40529
+s: , empty?: true
+s: 5020, empty?: false
+s: 5020, n: 5020, acc[1]: 0
+s: 1414, empty?: false
+s: 1414, n: 1414, acc[1]: 5020
+s: 2741, empty?: false
+s: 2741, n: 2741, acc[1]: 6434
+s: 6719, empty?: false
+s: 6719, n: 6719, acc[1]: 9175
+s: 2845, empty?: false
+s: 2845, n: 2845, acc[1]: 15894
+s: 6136, empty?: false
+s: 6136, n: 6136, acc[1]: 18739
+s: 6399, empty?: false
+s: 6399, n: 6399, acc[1]: 24875
+s: 1252, empty?: false
+s: 1252, n: 1252, acc[1]: 31274
+s: 3594, empty?: false
+s: 3594, n: 3594, acc[1]: 32526
+s: 5522, empty?: false
+s: 5522, n: 5522, acc[1]: 36120
+s: 7969, empty?: false
+s: 7969, n: 7969, acc[1]: 41642
+s: , empty?: true
+s: 5693, empty?: false
+s: 5693, n: 5693, acc[1]: 0
+s: 2115, empty?: false
+s: 2115, n: 2115, acc[1]: 5693
+s: 11763, empty?: false
+s: 11763, n: 11763, acc[1]: 7808
+s: 9283, empty?: false
+s: 9283, n: 9283, acc[1]: 19571
+s: 12287, empty?: false
+s: 12287, n: 12287, acc[1]: 28854
+s: , empty?: true
+s: 7006, empty?: false
+s: 7006, n: 7006, acc[1]: 0
+s: 5946, empty?: false
+s: 5946, n: 5946, acc[1]: 7006
+s: 10795, empty?: false
+s: 10795, n: 10795, acc[1]: 12952
+s: 1196, empty?: false
+s: 1196, n: 1196, acc[1]: 23747
+s: 7918, empty?: false
+s: 7918, n: 7918, acc[1]: 24943
+s: 5157, empty?: false
+s: 5157, n: 5157, acc[1]: 32861
+s: 7856, empty?: false
+s: 7856, n: 7856, acc[1]: 38018
+s: , empty?: true
+s: 4240, empty?: false
+s: 4240, n: 4240, acc[1]: 0
+s: 2887, empty?: false
+s: 2887, n: 2887, acc[1]: 4240
+s: 11614, empty?: false
+s: 11614, n: 11614, acc[1]: 7127
+s: 5791, empty?: false
+s: 5791, n: 5791, acc[1]: 18741
+s: 11635, empty?: false
+s: 11635, n: 11635, acc[1]: 24532
+s: 3458, empty?: false
+s: 3458, n: 3458, acc[1]: 36167
+s: 11730, empty?: false
+s: 11730, n: 11730, acc[1]: 39625
+s: , empty?: true
+s: 4843, empty?: false
+s: 4843, n: 4843, acc[1]: 0
+s: 8330, empty?: false
+s: 8330, n: 8330, acc[1]: 4843
+s: 7046, empty?: false
+s: 7046, n: 7046, acc[1]: 13173
+s: , empty?: true
+s: 6100, empty?: false
+s: 6100, n: 6100, acc[1]: 0
+s: 4280, empty?: false
+s: 4280, n: 4280, acc[1]: 6100
+s: 5609, empty?: false
+s: 5609, n: 5609, acc[1]: 10380
+s: 6975, empty?: false
+s: 6975, n: 6975, acc[1]: 15989
+s: 3704, empty?: false
+s: 3704, n: 3704, acc[1]: 22964
+s: 3033, empty?: false
+s: 3033, n: 3033, acc[1]: 26668
+s: 4953, empty?: false
+s: 4953, n: 4953, acc[1]: 29701
+s: 8469, empty?: false
+s: 8469, n: 8469, acc[1]: 34654
+s: 4844, empty?: false
+s: 4844, n: 4844, acc[1]: 43123
+s: 6110, empty?: false
+s: 6110, n: 6110, acc[1]: 47967
+s: , empty?: true
+s: 12946, empty?: false
+s: 12946, n: 12946, acc[1]: 0
+s: 25227, empty?: false
+s: 25227, n: 25227, acc[1]: 12946
+s: 10688, empty?: false
+s: 10688, n: 10688, acc[1]: 38173
+s: , empty?: true
+s: 2403, empty?: false
+s: 2403, n: 2403, acc[1]: 0
+s: 1851, empty?: false
+s: 1851, n: 1851, acc[1]: 2403
+s: 2695, empty?: false
+s: 2695, n: 2695, acc[1]: 4254
+s: 3953, empty?: false
+s: 3953, n: 3953, acc[1]: 6949
+s: 5878, empty?: false
+s: 5878, n: 5878, acc[1]: 10902
+s: 2712, empty?: false
+s: 2712, n: 2712, acc[1]: 16780
+s: 2516, empty?: false
+s: 2516, n: 2516, acc[1]: 19492
+s: 5473, empty?: false
+s: 5473, n: 5473, acc[1]: 22008
+s: 3877, empty?: false
+s: 3877, n: 3877, acc[1]: 27481
+s: 1955, empty?: false
+s: 1955, n: 1955, acc[1]: 31358
+s: 5663, empty?: false
+s: 5663, n: 5663, acc[1]: 33313
+s: 1627, empty?: false
+s: 1627, n: 1627, acc[1]: 38976
+s: 2777, empty?: false
+s: 2777, n: 2777, acc[1]: 40603
+s: 3082, empty?: false
+s: 3082, n: 3082, acc[1]: 43380
+s: , empty?: true
+s: 56364, empty?: false
+s: 56364, n: 56364, acc[1]: 0
+s: , empty?: true
+s: 4636, empty?: false
+s: 4636, n: 4636, acc[1]: 0
+s: 6558, empty?: false
+s: 6558, n: 6558, acc[1]: 4636
+s: 2535, empty?: false
+s: 2535, n: 2535, acc[1]: 11194
+s: 3165, empty?: false
+s: 3165, n: 3165, acc[1]: 13729
+s: 2685, empty?: false
+s: 2685, n: 2685, acc[1]: 16894
+s: 4797, empty?: false
+s: 4797, n: 4797, acc[1]: 19579
+s: 6021, empty?: false
+s: 6021, n: 6021, acc[1]: 24376
+s: 5666, empty?: false
+s: 5666, n: 5666, acc[1]: 30397
+s: 4233, empty?: false
+s: 4233, n: 4233, acc[1]: 36063
+s: 1469, empty?: false
+s: 1469, n: 1469, acc[1]: 40296
+s: 7070, empty?: false
+s: 7070, n: 7070, acc[1]: 41765
+s: , empty?: true
+s: 7209, empty?: false
+s: 7209, n: 7209, acc[1]: 0
+s: 2433, empty?: false
+s: 2433, n: 2433, acc[1]: 7209
+s: 7902, empty?: false
+s: 7902, n: 7902, acc[1]: 9642
+s: 3515, empty?: false
+s: 3515, n: 3515, acc[1]: 17544
+s: 5477, empty?: false
+s: 5477, n: 5477, acc[1]: 21059
+s: 9505, empty?: false
+s: 9505, n: 9505, acc[1]: 26536
+s: 5126, empty?: false
+s: 5126, n: 5126, acc[1]: 36041
+s: 9294, empty?: false
+s: 9294, n: 9294, acc[1]: 41167
+s: 4364, empty?: false
+s: 4364, n: 4364, acc[1]: 50461
+s: , empty?: true
+s: 8355, empty?: false
+s: 8355, n: 8355, acc[1]: 0
+s: , empty?: true
+s: 2434, empty?: false
+s: 2434, n: 2434, acc[1]: 0
+s: 1139, empty?: false
+s: 1139, n: 1139, acc[1]: 2434
+s: 2011, empty?: false
+s: 2011, n: 2011, acc[1]: 3573
+s: 3784, empty?: false
+s: 3784, n: 3784, acc[1]: 5584
+s: 1194, empty?: false
+s: 1194, n: 1194, acc[1]: 9368
+s: 2270, empty?: false
+s: 2270, n: 2270, acc[1]: 10562
+s: 6072, empty?: false
+s: 6072, n: 6072, acc[1]: 12832
+s: 5157, empty?: false
+s: 5157, n: 5157, acc[1]: 18904
+s: 3428, empty?: false
+s: 3428, n: 3428, acc[1]: 24061
+s: 3915, empty?: false
+s: 3915, n: 3915, acc[1]: 27489
+s: 2201, empty?: false
+s: 2201, n: 2201, acc[1]: 31404
+s: 1769, empty?: false
+s: 1769, n: 1769, acc[1]: 33605
+s: 3530, empty?: false
+s: 3530, n: 3530, acc[1]: 35374
+s: 4034, empty?: false
+s: 4034, n: 4034, acc[1]: 38904
+s: 3381, empty?: false
+s: 3381, n: 3381, acc[1]: 42938
+s: , empty?: true
+s: 1032, empty?: false
+s: 1032, n: 1032, acc[1]: 0
+s: 6856, empty?: false
+s: 6856, n: 6856, acc[1]: 1032
+s: 6760, empty?: false
+s: 6760, n: 6760, acc[1]: 7888
+s: 5918, empty?: false
+s: 5918, n: 5918, acc[1]: 14648
+s: 5255, empty?: false
+s: 5255, n: 5255, acc[1]: 20566
+s: , empty?: true
+s: 37294, empty?: false
+s: 37294, n: 37294, acc[1]: 0
+s: , empty?: true
+s: 5331, empty?: false
+s: 5331, n: 5331, acc[1]: 0
+s: 8102, empty?: false
+s: 8102, n: 8102, acc[1]: 5331
+s: 3359, empty?: false
+s: 3359, n: 3359, acc[1]: 13433
+s: 3692, empty?: false
+s: 3692, n: 3692, acc[1]: 16792
+s: 6645, empty?: false
+s: 6645, n: 6645, acc[1]: 20484
+s: 10076, empty?: false
+s: 10076, n: 10076, acc[1]: 27129
+s: 8602, empty?: false
+s: 8602, n: 8602, acc[1]: 37205
+s: 2726, empty?: false
+s: 2726, n: 2726, acc[1]: 45807
+s: , empty?: true
+s: 1196, empty?: false
+s: 1196, n: 1196, acc[1]: 0
+s: 3789, empty?: false
+s: 3789, n: 3789, acc[1]: 1196
+s: 9127, empty?: false
+s: 9127, n: 9127, acc[1]: 4985
+s: 15026, empty?: false
+s: 15026, n: 15026, acc[1]: 14112
+s: 10039, empty?: false
+s: 10039, n: 10039, acc[1]: 29138
+s: , empty?: true
+s: 44620, empty?: false
+s: 44620, n: 44620, acc[1]: 0
+s: , empty?: true
+s: 33181, empty?: false
+s: 33181, n: 33181, acc[1]: 0
+s: , empty?: true
+s: 7325, empty?: false
+s: 7325, n: 7325, acc[1]: 0
+s: 5261, empty?: false
+s: 5261, n: 5261, acc[1]: 7325
+s: , empty?: true
+s: 6633, empty?: false
+s: 6633, n: 6633, acc[1]: 0
+s: 1629, empty?: false
+s: 1629, n: 1629, acc[1]: 6633
+s: 13650, empty?: false
+s: 13650, n: 13650, acc[1]: 8262
+s: 13046, empty?: false
+s: 13046, n: 13046, acc[1]: 21912
+s: 9180, empty?: false
+s: 9180, n: 9180, acc[1]: 34958
+s: 13952, empty?: false
+s: 13952, n: 13952, acc[1]: 44138
+s: , empty?: true
+s: 8267, empty?: false
+s: 8267, n: 8267, acc[1]: 0
+s: 4591, empty?: false
+s: 4591, n: 4591, acc[1]: 8267
+s: 7888, empty?: false
+s: 7888, n: 7888, acc[1]: 12858
+s: 5919, empty?: false
+s: 5919, n: 5919, acc[1]: 20746
+s: 3255, empty?: false
+s: 3255, n: 3255, acc[1]: 26665
+s: 3938, empty?: false
+s: 3938, n: 3938, acc[1]: 29920
+s: 5320, empty?: false
+s: 5320, n: 5320, acc[1]: 33858
+s: 6318, empty?: false
+s: 6318, n: 6318, acc[1]: 39178
+s: 1016, empty?: false
+s: 1016, n: 1016, acc[1]: 45496
+s: 5467, empty?: false
+s: 5467, n: 5467, acc[1]: 46512
+s: , empty?: true
+s: 4945, empty?: false
+s: 4945, n: 4945, acc[1]: 0
+s: 4766, empty?: false
+s: 4766, n: 4766, acc[1]: 4945
+s: 4089, empty?: false
+s: 4089, n: 4089, acc[1]: 9711
+s: 6270, empty?: false
+s: 6270, n: 6270, acc[1]: 13800
+s: 5951, empty?: false
+s: 5951, n: 5951, acc[1]: 20070
+s: 3624, empty?: false
+s: 3624, n: 3624, acc[1]: 26021
+s: 1294, empty?: false
+s: 1294, n: 1294, acc[1]: 29645
+s: 2845, empty?: false
+s: 2845, n: 2845, acc[1]: 30939
+s: 6236, empty?: false
+s: 6236, n: 6236, acc[1]: 33784
+s: 2284, empty?: false
+s: 2284, n: 2284, acc[1]: 40020
+s: 6016, empty?: false
+s: 6016, n: 6016, acc[1]: 42304
+s: 6171, empty?: false
+s: 6171, n: 6171, acc[1]: 48320
+s: 2888, empty?: false
+s: 2888, n: 2888, acc[1]: 54491
+s: 3417, empty?: false
+s: 3417, n: 3417, acc[1]: 57379
+s: , empty?: true
+s: 7105, empty?: false
+s: 7105, n: 7105, acc[1]: 0
+s: 3162, empty?: false
+s: 3162, n: 3162, acc[1]: 7105
+s: 5163, empty?: false
+s: 5163, n: 5163, acc[1]: 10267
+s: 6685, empty?: false
+s: 6685, n: 6685, acc[1]: 15430
+s: 5034, empty?: false
+s: 5034, n: 5034, acc[1]: 22115
+s: 5590, empty?: false
+s: 5590, n: 5590, acc[1]: 27149
+s: 3857, empty?: false
+s: 3857, n: 3857, acc[1]: 32739
+s: 1349, empty?: false
+s: 1349, n: 1349, acc[1]: 36596
+s: 3110, empty?: false
+s: 3110, n: 3110, acc[1]: 37945
+s: 3216, empty?: false
+s: 3216, n: 3216, acc[1]: 41055
+s: 5713, empty?: false
+s: 5713, n: 5713, acc[1]: 44271
+s: 4128, empty?: false
+s: 4128, n: 4128, acc[1]: 49984
+s: , empty?: true
+s: 3345, empty?: false
+s: 3345, n: 3345, acc[1]: 0
+s: 5178, empty?: false
+s: 5178, n: 5178, acc[1]: 3345
+s: 2139, empty?: false
+s: 2139, n: 2139, acc[1]: 8523
+s: 6009, empty?: false
+s: 6009, n: 6009, acc[1]: 10662
+s: 3656, empty?: false
+s: 3656, n: 3656, acc[1]: 16671
+s: 3985, empty?: false
+s: 3985, n: 3985, acc[1]: 20327
+s: 2925, empty?: false
+s: 2925, n: 2925, acc[1]: 24312
+s: 1878, empty?: false
+s: 1878, n: 1878, acc[1]: 27237
+s: 5277, empty?: false
+s: 5277, n: 5277, acc[1]: 29115
+s: 2548, empty?: false
+s: 2548, n: 2548, acc[1]: 34392
+s: 5014, empty?: false
+s: 5014, n: 5014, acc[1]: 36940
+s: 4170, empty?: false
+s: 4170, n: 4170, acc[1]: 41954
+s: 2068, empty?: false
+s: 2068, n: 2068, acc[1]: 46124
+s: 5406, empty?: false
+s: 5406, n: 5406, acc[1]: 48192
+s: 3782, empty?: false
+s: 3782, n: 3782, acc[1]: 53598
+s: , empty?: true
+s: 4545, empty?: false
+s: 4545, n: 4545, acc[1]: 0
+s: 3019, empty?: false
+s: 3019, n: 3019, acc[1]: 4545
+s: 4971, empty?: false
+s: 4971, n: 4971, acc[1]: 7564
+s: 5443, empty?: false
+s: 5443, n: 5443, acc[1]: 12535
+s: 4041, empty?: false
+s: 4041, n: 4041, acc[1]: 17978
+s: 2992, empty?: false
+s: 2992, n: 2992, acc[1]: 22019
+s: 2572, empty?: false
+s: 2572, n: 2572, acc[1]: 25011
+s: 1746, empty?: false
+s: 1746, n: 1746, acc[1]: 27583
+s: 6324, empty?: false
+s: 6324, n: 6324, acc[1]: 29329
+s: 2505, empty?: false
+s: 2505, n: 2505, acc[1]: 35653
+s: 4059, empty?: false
+s: 4059, n: 4059, acc[1]: 38158
+s: 4559, empty?: false
+s: 4559, n: 4559, acc[1]: 42217
+s: 3282, empty?: false
+s: 3282, n: 3282, acc[1]: 46776
+s: 6281, empty?: false
+s: 6281, n: 6281, acc[1]: 50058
+s: , empty?: true
+s: 2479, empty?: false
+s: 2479, n: 2479, acc[1]: 0
+s: 1227, empty?: false
+s: 1227, n: 1227, acc[1]: 2479
+s: 1920, empty?: false
+s: 1920, n: 1920, acc[1]: 3706
+s: 1652, empty?: false
+s: 1652, n: 1652, acc[1]: 5626
+s: 7127, empty?: false
+s: 7127, n: 7127, acc[1]: 7278
+s: 5330, empty?: false
+s: 5330, n: 5330, acc[1]: 14405
+s: 5773, empty?: false
+s: 5773, n: 5773, acc[1]: 19735
+s: 7980, empty?: false
+s: 7980, n: 7980, acc[1]: 25508
+s: 5979, empty?: false
+s: 5979, n: 5979, acc[1]: 33488
+s: 1327, empty?: false
+s: 1327, n: 1327, acc[1]: 39467
+s: 6926, empty?: false
+s: 6926, n: 6926, acc[1]: 40794
+s: , empty?: true
+s: 5533, empty?: false
+s: 5533, n: 5533, acc[1]: 0
+s: 4924, empty?: false
+s: 4924, n: 4924, acc[1]: 5533
+s: 4501, empty?: false
+s: 4501, n: 4501, acc[1]: 10457
+s: 1595, empty?: false
+s: 1595, n: 1595, acc[1]: 14958
+s: 5068, empty?: false
+s: 5068, n: 5068, acc[1]: 16553
+s: 1872, empty?: false
+s: 1872, n: 1872, acc[1]: 21621
+s: 1756, empty?: false
+s: 1756, n: 1756, acc[1]: 23493
+s: 6565, empty?: false
+s: 6565, n: 6565, acc[1]: 25249
+s: 4526, empty?: false
+s: 4526, n: 4526, acc[1]: 31814
+s: 2686, empty?: false
+s: 2686, n: 2686, acc[1]: 36340
+s: 1905, empty?: false
+s: 1905, n: 1905, acc[1]: 39026
+s: 4323, empty?: false
+s: 4323, n: 4323, acc[1]: 40931
+s: 4340, empty?: false
+s: 4340, n: 4340, acc[1]: 45254
+s: , empty?: true
+s: 6740, empty?: false
+s: 6740, n: 6740, acc[1]: 0
+s: 9667, empty?: false
+s: 9667, n: 9667, acc[1]: 6740
+s: 7552, empty?: false
+s: 7552, n: 7552, acc[1]: 16407
+s: 1838, empty?: false
+s: 1838, n: 1838, acc[1]: 23959
+s: 4250, empty?: false
+s: 4250, n: 4250, acc[1]: 25797
+s: 8439, empty?: false
+s: 8439, n: 8439, acc[1]: 30047
+s: 2018, empty?: false
+s: 2018, n: 2018, acc[1]: 38486
+s: 9334, empty?: false
+s: 9334, n: 9334, acc[1]: 40504
+s: 4571, empty?: false
+s: 4571, n: 4571, acc[1]: 49838
+s: , empty?: true
+s: 5685, empty?: false
+s: 5685, n: 5685, acc[1]: 0
+s: 2107, empty?: false
+s: 2107, n: 2107, acc[1]: 5685
+s: 3006, empty?: false
+s: 3006, n: 3006, acc[1]: 7792
+s: 1731, empty?: false
+s: 1731, n: 1731, acc[1]: 10798
+s: 2252, empty?: false
+s: 2252, n: 2252, acc[1]: 12529
+s: 2543, empty?: false
+s: 2543, n: 2543, acc[1]: 14781
+s: 4018, empty?: false
+s: 4018, n: 4018, acc[1]: 17324
+s: 6351, empty?: false
+s: 6351, n: 6351, acc[1]: 21342
+s: 1533, empty?: false
+s: 1533, n: 1533, acc[1]: 27693
+s: 5665, empty?: false
+s: 5665, n: 5665, acc[1]: 29226
+s: 2671, empty?: false
+s: 2671, n: 2671, acc[1]: 34891
+s: 2983, empty?: false
+s: 2983, n: 2983, acc[1]: 37562
+s: , empty?: true
+s: 7982, empty?: false
+s: 7982, n: 7982, acc[1]: 0
+s: 5914, empty?: false
+s: 5914, n: 5914, acc[1]: 7982
+s: 7895, empty?: false
+s: 7895, n: 7895, acc[1]: 13896
+s: 1973, empty?: false
+s: 1973, n: 1973, acc[1]: 21791
+s: 6270, empty?: false
+s: 6270, n: 6270, acc[1]: 23764
+s: 1546, empty?: false
+s: 1546, n: 1546, acc[1]: 30034
+s: 1333, empty?: false
+s: 1333, n: 1333, acc[1]: 31580
+s: 6630, empty?: false
+s: 6630, n: 6630, acc[1]: 32913
+s: 7107, empty?: false
+s: 7107, n: 7107, acc[1]: 39543
+s: 5563, empty?: false
+s: 5563, n: 5563, acc[1]: 46650
+s: 1223, empty?: false
+s: 1223, n: 1223, acc[1]: 52213
+s: , empty?: true
+s: 3377, empty?: false
+s: 3377, n: 3377, acc[1]: 0
+s: 1575, empty?: false
+s: 1575, n: 1575, acc[1]: 3377
+s: 6806, empty?: false
+s: 6806, n: 6806, acc[1]: 4952
+s: 6269, empty?: false
+s: 6269, n: 6269, acc[1]: 11758
+s: 5158, empty?: false
+s: 5158, n: 5158, acc[1]: 18027
+s: 5195, empty?: false
+s: 5195, n: 5195, acc[1]: 23185
+s: 2001, empty?: false
+s: 2001, n: 2001, acc[1]: 28380
+s: 1896, empty?: false
+s: 1896, n: 1896, acc[1]: 30381
+s: 8137, empty?: false
+s: 8137, n: 8137, acc[1]: 32277
+s: , empty?: true
+s: 4449, empty?: false
+s: 4449, n: 4449, acc[1]: 0
+s: 2044, empty?: false
+s: 2044, n: 2044, acc[1]: 4449
+s: 1954, empty?: false
+s: 1954, n: 1954, acc[1]: 6493
+s: 4646, empty?: false
+s: 4646, n: 4646, acc[1]: 8447
+s: 4853, empty?: false
+s: 4853, n: 4853, acc[1]: 13093
+s: 2901, empty?: false
+s: 2901, n: 2901, acc[1]: 17946
+s: 4696, empty?: false
+s: 4696, n: 4696, acc[1]: 20847
+s: 3729, empty?: false
+s: 3729, n: 3729, acc[1]: 25543
+s: 2467, empty?: false
+s: 2467, n: 2467, acc[1]: 29272
+s: 5396, empty?: false
+s: 5396, n: 5396, acc[1]: 31739
+s: 1370, empty?: false
+s: 1370, n: 1370, acc[1]: 37135
+s: 5768, empty?: false
+s: 5768, n: 5768, acc[1]: 38505
+s: 3729, empty?: false
+s: 3729, n: 3729, acc[1]: 44273
+s: 1122, empty?: false
+s: 1122, n: 1122, acc[1]: 48002
+s: 2760, empty?: false
+s: 2760, n: 2760, acc[1]: 49124
+s: , empty?: true
+s: 5594, empty?: false
+s: 5594, n: 5594, acc[1]: 0
+s: 3736, empty?: false
+s: 3736, n: 3736, acc[1]: 5594
+s: 4226, empty?: false
+s: 4226, n: 4226, acc[1]: 9330
+s: 5677, empty?: false
+s: 5677, n: 5677, acc[1]: 13556
+s: 1451, empty?: false
+s: 1451, n: 1451, acc[1]: 19233
+s: 5936, empty?: false
+s: 5936, n: 5936, acc[1]: 20684
+s: 3771, empty?: false
+s: 3771, n: 3771, acc[1]: 26620
+s: 1747, empty?: false
+s: 1747, n: 1747, acc[1]: 30391
+s: 4692, empty?: false
+s: 4692, n: 4692, acc[1]: 32138
+s: 1991, empty?: false
+s: 1991, n: 1991, acc[1]: 36830
+s: 3244, empty?: false
+s: 3244, n: 3244, acc[1]: 38821
+s: 5235, empty?: false
+s: 5235, n: 5235, acc[1]: 42065
+s: 2494, empty?: false
+s: 2494, n: 2494, acc[1]: 47300
+s: 1136, empty?: false
+s: 1136, n: 1136, acc[1]: 49794
+s: 2600, empty?: false
+s: 2600, n: 2600, acc[1]: 50930
+s: , empty?: true
+s: 60004, empty?: false
+s: 60004, n: 60004, acc[1]: 0
+s: , empty?: true
+s: 10268, empty?: false
+s: 10268, n: 10268, acc[1]: 0
+s: 7786, empty?: false
+s: 7786, n: 7786, acc[1]: 10268
+s: 8060, empty?: false
+s: 8060, n: 8060, acc[1]: 18054
+s: 10508, empty?: false
+s: 10508, n: 10508, acc[1]: 26114
+s: 5528, empty?: false
+s: 5528, n: 5528, acc[1]: 36622
+s: 6774, empty?: false
+s: 6774, n: 6774, acc[1]: 42150
+s: , empty?: true
+s: 1428, empty?: false
+s: 1428, n: 1428, acc[1]: 0
+s: 16323, empty?: false
+s: 16323, n: 16323, acc[1]: 1428
+s: 9092, empty?: false
+s: 9092, n: 9092, acc[1]: 17751
+s: 17680, empty?: false
+s: 17680, n: 17680, acc[1]: 26843
+s: , empty?: true
+s: 1278, empty?: false
+s: 1278, n: 1278, acc[1]: 0
+s: 3760, empty?: false
+s: 3760, n: 3760, acc[1]: 1278
+s: 4600, empty?: false
+s: 4600, n: 4600, acc[1]: 5038
+s: 5281, empty?: false
+s: 5281, n: 5281, acc[1]: 9638
+s: 3371, empty?: false
+s: 3371, n: 3371, acc[1]: 14919
+s: 4529, empty?: false
+s: 4529, n: 4529, acc[1]: 18290
+s: 2906, empty?: false
+s: 2906, n: 2906, acc[1]: 22819
+s: 5004, empty?: false
+s: 5004, n: 5004, acc[1]: 25725
+s: 4326, empty?: false
+s: 4326, n: 4326, acc[1]: 30729
+s: 4382, empty?: false
+s: 4382, n: 4382, acc[1]: 35055
+s: 3507, empty?: false
+s: 3507, n: 3507, acc[1]: 39437
+s: 1738, empty?: false
+s: 1738, n: 1738, acc[1]: 42944
+s: 3022, empty?: false
+s: 3022, n: 3022, acc[1]: 44682
+s: 1261, empty?: false
+s: 1261, n: 1261, acc[1]: 47704
+s: 2087, empty?: false
+s: 2087, n: 2087, acc[1]: 48965
+s: , empty?: true
+s: 2088, empty?: false
+s: 2088, n: 2088, acc[1]: 0
+s: 5008, empty?: false
+s: 5008, n: 5008, acc[1]: 2088
+s: 6379, empty?: false
+s: 6379, n: 6379, acc[1]: 7096
+s: 4057, empty?: false
+s: 4057, n: 4057, acc[1]: 13475
+s: 3677, empty?: false
+s: 3677, n: 3677, acc[1]: 17532
+s: 5741, empty?: false
+s: 5741, n: 5741, acc[1]: 21209
+s: 1096, empty?: false
+s: 1096, n: 1096, acc[1]: 26950
+s: 3156, empty?: false
+s: 3156, n: 3156, acc[1]: 28046
+s: 4884, empty?: false
+s: 4884, n: 4884, acc[1]: 31202
+s: 5431, empty?: false
+s: 5431, n: 5431, acc[1]: 36086
+s: 3653, empty?: false
+s: 3653, n: 3653, acc[1]: 41517
+s: 6249, empty?: false
+s: 6249, n: 6249, acc[1]: 45170
+s: 1959, empty?: false
+s: 1959, n: 1959, acc[1]: 51419
+s: 4851, empty?: false
+s: 4851, n: 4851, acc[1]: 53378
+s: , empty?: true
+s: 3198, empty?: false
+s: 3198, n: 3198, acc[1]: 0
+s: 1054, empty?: false
+s: 1054, n: 1054, acc[1]: 3198
+s: 5059, empty?: false
+s: 5059, n: 5059, acc[1]: 4252
+s: 1967, empty?: false
+s: 1967, n: 1967, acc[1]: 9311
+s: 5084, empty?: false
+s: 5084, n: 5084, acc[1]: 11278
+s: 4735, empty?: false
+s: 4735, n: 4735, acc[1]: 16362
+s: 1672, empty?: false
+s: 1672, n: 1672, acc[1]: 21097
+s: 1975, empty?: false
+s: 1975, n: 1975, acc[1]: 22769
+s: 3757, empty?: false
+s: 3757, n: 3757, acc[1]: 24744
+s: 5140, empty?: false
+s: 5140, n: 5140, acc[1]: 28501
+s: 4123, empty?: false
+s: 4123, n: 4123, acc[1]: 33641
+s: 1226, empty?: false
+s: 1226, n: 1226, acc[1]: 37764
+s: 5561, empty?: false
+s: 5561, n: 5561, acc[1]: 38990
+s: 3002, empty?: false
+s: 3002, n: 3002, acc[1]: 44551
+s: 1048, empty?: false
+s: 1048, n: 1048, acc[1]: 47553
+s: , empty?: true
+s: 4155, empty?: false
+s: 4155, n: 4155, acc[1]: 0
+s: 6076, empty?: false
+s: 6076, n: 6076, acc[1]: 4155
+s: 4411, empty?: false
+s: 4411, n: 4411, acc[1]: 10231
+s: 4147, empty?: false
+s: 4147, n: 4147, acc[1]: 14642
+s: 1509, empty?: false
+s: 1509, n: 1509, acc[1]: 18789
+s: 1410, empty?: false
+s: 1410, n: 1410, acc[1]: 20298
+s: 1316, empty?: false
+s: 1316, n: 1316, acc[1]: 21708
+s: 2436, empty?: false
+s: 2436, n: 2436, acc[1]: 23024
+s: 5710, empty?: false
+s: 5710, n: 5710, acc[1]: 25460
+s: 3469, empty?: false
+s: 3469, n: 3469, acc[1]: 31170
+s: 5833, empty?: false
+s: 5833, n: 5833, acc[1]: 34639
+s: 3284, empty?: false
+s: 3284, n: 3284, acc[1]: 40472
+s: 2004, empty?: false
+s: 2004, n: 2004, acc[1]: 43756
+s: 5333, empty?: false
+s: 5333, n: 5333, acc[1]: 45760
+s: 2931, empty?: false
+s: 2931, n: 2931, acc[1]: 51093
+s: , empty?: true
+s: 3722, empty?: false
+s: 3722, n: 3722, acc[1]: 0
+s: 6554, empty?: false
+s: 6554, n: 6554, acc[1]: 3722
+s: 4079, empty?: false
+s: 4079, n: 4079, acc[1]: 10276
+s: 3647, empty?: false
+s: 3647, n: 3647, acc[1]: 14355
+s: 6665, empty?: false
+s: 6665, n: 6665, acc[1]: 18002
+s: 2834, empty?: false
+s: 2834, n: 2834, acc[1]: 24667
+s: 6111, empty?: false
+s: 6111, n: 6111, acc[1]: 27501
+s: 1699, empty?: false
+s: 1699, n: 1699, acc[1]: 33612
+s: 2264, empty?: false
+s: 2264, n: 2264, acc[1]: 35311
+s: 3301, empty?: false
+s: 3301, n: 3301, acc[1]: 37575
+s: 4618, empty?: false
+s: 4618, n: 4618, acc[1]: 40876
+s: 6804, empty?: false
+s: 6804, n: 6804, acc[1]: 45494
+s: , empty?: true
+s: 18306, empty?: false
+s: 18306, n: 18306, acc[1]: 0
+s: 2766, empty?: false
+s: 2766, n: 2766, acc[1]: 18306
+s: 15246, empty?: false
+s: 15246, n: 15246, acc[1]: 21072
+s: 16034, empty?: false
+s: 16034, n: 16034, acc[1]: 36318
+s: , empty?: true
+s: 10794, empty?: false
+s: 10794, n: 10794, acc[1]: 0
+s: 8795, empty?: false
+s: 8795, n: 8795, acc[1]: 10794
+s: 6042, empty?: false
+s: 6042, n: 6042, acc[1]: 19589
+s: 14744, empty?: false
+s: 14744, n: 14744, acc[1]: 25631
+s: 8731, empty?: false
+s: 8731, n: 8731, acc[1]: 40375
+s: , empty?: true
+s: 9246, empty?: false
+s: 9246, n: 9246, acc[1]: 0
+s: 15455, empty?: false
+s: 15455, n: 15455, acc[1]: 9246
+s: 7276, empty?: false
+s: 7276, n: 7276, acc[1]: 24701
+s: 1023, empty?: false
+s: 1023, n: 1023, acc[1]: 31977
+s: , empty?: true
+s: 4976, empty?: false
+s: 4976, n: 4976, acc[1]: 0
+s: 5679, empty?: false
+s: 5679, n: 5679, acc[1]: 4976
+s: 3094, empty?: false
+s: 3094, n: 3094, acc[1]: 10655
+s: 6609, empty?: false
+s: 6609, n: 6609, acc[1]: 13749
+s: 3132, empty?: false
+s: 3132, n: 3132, acc[1]: 20358
+s: 6317, empty?: false
+s: 6317, n: 6317, acc[1]: 23490
+s: 7249, empty?: false
+s: 7249, n: 7249, acc[1]: 29807
+s: 3085, empty?: false
+s: 3085, n: 3085, acc[1]: 37056
+s: 2201, empty?: false
+s: 2201, n: 2201, acc[1]: 40141
+s: 4788, empty?: false
+s: 4788, n: 4788, acc[1]: 42342
+s: 3853, empty?: false
+s: 3853, n: 3853, acc[1]: 47130
+s: 7298, empty?: false
+s: 7298, n: 7298, acc[1]: 50983
+s: , empty?: true
+s: 6328, empty?: false
+s: 6328, n: 6328, acc[1]: 0
+s: 8513, empty?: false
+s: 8513, n: 8513, acc[1]: 6328
+s: 10986, empty?: false
+s: 10986, n: 10986, acc[1]: 14841
+s: 8497, empty?: false
+s: 8497, n: 8497, acc[1]: 25827
+s: 3620, empty?: false
+s: 3620, n: 3620, acc[1]: 34324
+s: , empty?: true
+s: 8570, empty?: false
+s: 8570, n: 8570, acc[1]: 0
+s: 6016, empty?: false
+s: 6016, n: 6016, acc[1]: 8570
+s: 3967, empty?: false
+s: 3967, n: 3967, acc[1]: 14586
+s: 7081, empty?: false
+s: 7081, n: 7081, acc[1]: 18553
+s: 2226, empty?: false
+s: 2226, n: 2226, acc[1]: 25634
+s: 3628, empty?: false
+s: 3628, n: 3628, acc[1]: 27860
+s: 1183, empty?: false
+s: 1183, n: 1183, acc[1]: 31488
+s: 7502, empty?: false
+s: 7502, n: 7502, acc[1]: 32671
+s: 2675, empty?: false
+s: 2675, n: 2675, acc[1]: 40173
+s: , empty?: true
+s: 3713, empty?: false
+s: 3713, n: 3713, acc[1]: 0
+s: 4940, empty?: false
+s: 4940, n: 4940, acc[1]: 3713
+s: 3895, empty?: false
+s: 3895, n: 3895, acc[1]: 8653
+s: 5463, empty?: false
+s: 5463, n: 5463, acc[1]: 12548
+s: 1568, empty?: false
+s: 1568, n: 1568, acc[1]: 18011
+s: 1646, empty?: false
+s: 1646, n: 1646, acc[1]: 19579
+s: 1933, empty?: false
+s: 1933, n: 1933, acc[1]: 21225
+s: 4149, empty?: false
+s: 4149, n: 4149, acc[1]: 23158
+s: 4542, empty?: false
+s: 4542, n: 4542, acc[1]: 27307
+s: 5107, empty?: false
+s: 5107, n: 5107, acc[1]: 31849
+s: 2476, empty?: false
+s: 2476, n: 2476, acc[1]: 36956
+s: 6416, empty?: false
+s: 6416, n: 6416, acc[1]: 39432
+s: 5590, empty?: false
+s: 5590, n: 5590, acc[1]: 45848
+s: 4177, empty?: false
+s: 4177, n: 4177, acc[1]: 51438
+s: , empty?: true
+s: 1853, empty?: false
+s: 1853, n: 1853, acc[1]: 0
+s: 3161, empty?: false
+s: 3161, n: 3161, acc[1]: 1853
+s: 5524, empty?: false
+s: 5524, n: 5524, acc[1]: 5014
+s: 4869, empty?: false
+s: 4869, n: 4869, acc[1]: 10538
+s: 4002, empty?: false
+s: 4002, n: 4002, acc[1]: 15407
+s: 4835, empty?: false
+s: 4835, n: 4835, acc[1]: 19409
+s: 5345, empty?: false
+s: 5345, n: 5345, acc[1]: 24244
+s: 3406, empty?: false
+s: 3406, n: 3406, acc[1]: 29589
+s: 3809, empty?: false
+s: 3809, n: 3809, acc[1]: 32995
+s: 6334, empty?: false
+s: 6334, n: 6334, acc[1]: 36804
+s: 3815, empty?: false
+s: 3815, n: 3815, acc[1]: 43138
+s: 4439, empty?: false
+s: 4439, n: 4439, acc[1]: 46953
+s: 4804, empty?: false
+s: 4804, n: 4804, acc[1]: 51392
+s: 4653, empty?: false
+s: 4653, n: 4653, acc[1]: 56196
+s: , empty?: true
+s: 2340, empty?: false
+s: 2340, n: 2340, acc[1]: 0
+s: 1068, empty?: false
+s: 1068, n: 1068, acc[1]: 2340
+s: 6949, empty?: false
+s: 6949, n: 6949, acc[1]: 3408
+s: 4527, empty?: false
+s: 4527, n: 4527, acc[1]: 10357
+s: 2062, empty?: false
+s: 2062, n: 2062, acc[1]: 14884
+s: 1973, empty?: false
+s: 1973, n: 1973, acc[1]: 16946
+s: 7159, empty?: false
+s: 7159, n: 7159, acc[1]: 18919
+s: 6917, empty?: false
+s: 6917, n: 6917, acc[1]: 26078
+s: 7989, empty?: false
+s: 7989, n: 7989, acc[1]: 32995
+s: 5951, empty?: false
+s: 5951, n: 5951, acc[1]: 40984
+s: 3967, empty?: false
+s: 3967, n: 3967, acc[1]: 46935
+s: , empty?: true
+s: 7479, empty?: false
+s: 7479, n: 7479, acc[1]: 0
+s: 1230, empty?: false
+s: 1230, n: 1230, acc[1]: 7479
+s: 6619, empty?: false
+s: 6619, n: 6619, acc[1]: 8709
+s: 5481, empty?: false
+s: 5481, n: 5481, acc[1]: 15328
+s: 4068, empty?: false
+s: 4068, n: 4068, acc[1]: 20809
+s: 6854, empty?: false
+s: 6854, n: 6854, acc[1]: 24877
+s: 1792, empty?: false
+s: 1792, n: 1792, acc[1]: 31731
+s: 6293, empty?: false
+s: 6293, n: 6293, acc[1]: 33523
+s: 2888, empty?: false
+s: 2888, n: 2888, acc[1]: 39816
+s: 7018, empty?: false
+s: 7018, n: 7018, acc[1]: 42704
+s: 4381, empty?: false
+s: 4381, n: 4381, acc[1]: 49722
+s: , empty?: true
+s: 43123, empty?: false
+s: 43123, n: 43123, acc[1]: 0
+s: , empty?: true
+s: 12920, empty?: false
+s: 12920, n: 12920, acc[1]: 0
+s: 10198, empty?: false
+s: 10198, n: 10198, acc[1]: 12920
+s: 13757, empty?: false
+s: 13757, n: 13757, acc[1]: 23118
+s: 10070, empty?: false
+s: 10070, n: 10070, acc[1]: 36875
+s: 3194, empty?: false
+s: 3194, n: 3194, acc[1]: 46945
+s: 10576, empty?: false
+s: 10576, n: 10576, acc[1]: 50139
+s: , empty?: true
+s: 26957, empty?: false
+s: 26957, n: 26957, acc[1]: 0
+s: 29555, empty?: false
+s: 29555, n: 29555, acc[1]: 26957
+s: , empty?: true
+s: 5102, empty?: false
+s: 5102, n: 5102, acc[1]: 0
+s: 11583, empty?: false
+s: 11583, n: 11583, acc[1]: 5102
+s: 4272, empty?: false
+s: 4272, n: 4272, acc[1]: 16685
+s: , empty?: true
+s: 5229, empty?: false
+s: 5229, n: 5229, acc[1]: 0
+s: 1697, empty?: false
+s: 1697, n: 1697, acc[1]: 5229
+s: 7613, empty?: false
+s: 7613, n: 7613, acc[1]: 6926
+s: 1254, empty?: false
+s: 1254, n: 1254, acc[1]: 14539
+s: 3850, empty?: false
+s: 3850, n: 3850, acc[1]: 15793
+s: 3959, empty?: false
+s: 3959, n: 3959, acc[1]: 19643
+s: 3011, empty?: false
+s: 3011, n: 3011, acc[1]: 23602
+s: 8327, empty?: false
+s: 8327, n: 8327, acc[1]: 26613
+s: 1583, empty?: false
+s: 1583, n: 1583, acc[1]: 34940
+s: 5689, empty?: false
+s: 5689, n: 5689, acc[1]: 36523
+s: , empty?: true
+s: 3069, empty?: false
+s: 3069, n: 3069, acc[1]: 0
+s: 5459, empty?: false
+s: 5459, n: 5459, acc[1]: 3069
+s: 1921, empty?: false
+s: 1921, n: 1921, acc[1]: 8528
+s: 4279, empty?: false
+s: 4279, n: 4279, acc[1]: 10449
+s: 2614, empty?: false
+s: 2614, n: 2614, acc[1]: 14728
+s: 3025, empty?: false
+s: 3025, n: 3025, acc[1]: 17342
+s: 1134, empty?: false
+s: 1134, n: 1134, acc[1]: 20367
+s: 2718, empty?: false
+s: 2718, n: 2718, acc[1]: 21501
+s: 3784, empty?: false
+s: 3784, n: 3784, acc[1]: 24219
+s: 3160, empty?: false
+s: 3160, n: 3160, acc[1]: 28003
+s: 2885, empty?: false
+s: 2885, n: 2885, acc[1]: 31163
+s: 5309, empty?: false
+s: 5309, n: 5309, acc[1]: 34048
+s: 3048, empty?: false
+s: 3048, n: 3048, acc[1]: 39357
+s: 3150, empty?: false
+s: 3150, n: 3150, acc[1]: 42405
+s: , empty?: true
+s: 15015, empty?: false
+s: 15015, n: 15015, acc[1]: 0
+s: 5487, empty?: false
+s: 5487, n: 5487, acc[1]: 15015
+s: 11549, empty?: false
+s: 11549, n: 11549, acc[1]: 20502
+s: 16223, empty?: false
+s: 16223, n: 16223, acc[1]: 32051
+s: , empty?: true
+s: 1700, empty?: false
+s: 1700, n: 1700, acc[1]: 0
+s: 1079, empty?: false
+s: 1079, n: 1079, acc[1]: 1700
+s: 5726, empty?: false
+s: 5726, n: 5726, acc[1]: 2779
+s: 2919, empty?: false
+s: 2919, n: 2919, acc[1]: 8505
+s: 4403, empty?: false
+s: 4403, n: 4403, acc[1]: 11424
+s: 4004, empty?: false
+s: 4004, n: 4004, acc[1]: 15827
+s: 4490, empty?: false
+s: 4490, n: 4490, acc[1]: 19831
+s: 4474, empty?: false
+s: 4474, n: 4474, acc[1]: 24321
+s: 5385, empty?: false
+s: 5385, n: 5385, acc[1]: 28795
+s: 4940, empty?: false
+s: 4940, n: 4940, acc[1]: 34180
+s: 2019, empty?: false
+s: 2019, n: 2019, acc[1]: 39120
+s: 2426, empty?: false
+s: 2426, n: 2426, acc[1]: 41139
+s: 1774, empty?: false
+s: 1774, n: 1774, acc[1]: 43565
+s: 5222, empty?: false
+s: 5222, n: 5222, acc[1]: 45339
+s: 4095, empty?: false
+s: 4095, n: 4095, acc[1]: 50561
+s: , empty?: true
+s: 2109, empty?: false
+s: 2109, n: 2109, acc[1]: 0
+s: 1692, empty?: false
+s: 1692, n: 1692, acc[1]: 2109
+s: 3529, empty?: false
+s: 3529, n: 3529, acc[1]: 3801
+s: 4425, empty?: false
+s: 4425, n: 4425, acc[1]: 7330
+s: 5017, empty?: false
+s: 5017, n: 5017, acc[1]: 11755
+s: 1955, empty?: false
+s: 1955, n: 1955, acc[1]: 16772
+s: 2956, empty?: false
+s: 2956, n: 2956, acc[1]: 18727
+s: 5193, empty?: false
+s: 5193, n: 5193, acc[1]: 21683
+s: 1359, empty?: false
+s: 1359, n: 1359, acc[1]: 26876
+s: 3071, empty?: false
+s: 3071, n: 3071, acc[1]: 28235
+s: 5086, empty?: false
+s: 5086, n: 5086, acc[1]: 31306
+s: 3272, empty?: false
+s: 3272, n: 3272, acc[1]: 36392
+s: 1148, empty?: false
+s: 1148, n: 1148, acc[1]: 39664
+s: 1244, empty?: false
+s: 1244, n: 1244, acc[1]: 40812
+s: 5108, empty?: false
+s: 5108, n: 5108, acc[1]: 42056
+s: , empty?: true
+s: 3183, empty?: false
+s: 3183, n: 3183, acc[1]: 0
+s: 5818, empty?: false
+s: 5818, n: 5818, acc[1]: 3183
+s: 5424, empty?: false
+s: 5424, n: 5424, acc[1]: 9001
+s: 3009, empty?: false
+s: 3009, n: 3009, acc[1]: 14425
+s: 9660, empty?: false
+s: 9660, n: 9660, acc[1]: 17434
+s: 10737, empty?: false
+s: 10737, n: 10737, acc[1]: 27094
+s: 7805, empty?: false
+s: 7805, n: 7805, acc[1]: 37831
+s: 4181, empty?: false
+s: 4181, n: 4181, acc[1]: 45636
+s: , empty?: true
+s: 4393, empty?: false
+s: 4393, n: 4393, acc[1]: 0
+s: 2248, empty?: false
+s: 2248, n: 2248, acc[1]: 4393
+s: 6731, empty?: false
+s: 6731, n: 6731, acc[1]: 6641
+s: 1691, empty?: false
+s: 1691, n: 1691, acc[1]: 13372
+s: 1330, empty?: false
+s: 1330, n: 1330, acc[1]: 15063
+s: 2227, empty?: false
+s: 2227, n: 2227, acc[1]: 16393
+s: 3580, empty?: false
+s: 3580, n: 3580, acc[1]: 18620
+s: , empty?: true
+s: 3097, empty?: false
+s: 3097, n: 3097, acc[1]: 0
+s: 6770, empty?: false
+s: 6770, n: 6770, acc[1]: 3097
+s: 4477, empty?: false
+s: 4477, n: 4477, acc[1]: 9867
+s: 2274, empty?: false
+s: 2274, n: 2274, acc[1]: 14344
+s: 10473, empty?: false
+s: 10473, n: 10473, acc[1]: 16618
+s: 6196, empty?: false
+s: 6196, n: 6196, acc[1]: 27091
+s: 6291, empty?: false
+s: 6291, n: 6291, acc[1]: 33287
+s: 10213, empty?: false
+s: 10213, n: 10213, acc[1]: 39578
+s: , empty?: true
+s: 4466, empty?: false
+s: 4466, n: 4466, acc[1]: 0
+s: 1945, empty?: false
+s: 1945, n: 1945, acc[1]: 4466
+s: 4168, empty?: false
+s: 4168, n: 4168, acc[1]: 6411
+s: 3012, empty?: false
+s: 3012, n: 3012, acc[1]: 10579
+s: 5737, empty?: false
+s: 5737, n: 5737, acc[1]: 13591
+s: 2918, empty?: false
+s: 2918, n: 2918, acc[1]: 19328
+s: 1568, empty?: false
+s: 1568, n: 1568, acc[1]: 22246
+s: 6018, empty?: false
+s: 6018, n: 6018, acc[1]: 23814
+s: 3634, empty?: false
+s: 3634, n: 3634, acc[1]: 29832
+s: 2373, empty?: false
+s: 2373, n: 2373, acc[1]: 33466
+s: 2398, empty?: false
+s: 2398, n: 2398, acc[1]: 35839
+s: 1899, empty?: false
+s: 1899, n: 1899, acc[1]: 38237
+s: 5096, empty?: false
+s: 5096, n: 5096, acc[1]: 40136
+s: 6008, empty?: false
+s: 6008, n: 6008, acc[1]: 45232
+s: 2990, empty?: false
+s: 2990, n: 2990, acc[1]: 51240
+s: , empty?: true
+s: 6237, empty?: false
+s: 6237, n: 6237, acc[1]: 0
+s: 4195, empty?: false
+s: 4195, n: 4195, acc[1]: 6237
+s: 4209, empty?: false
+s: 4209, n: 4209, acc[1]: 10432
+s: 6274, empty?: false
+s: 6274, n: 6274, acc[1]: 14641
+s: 5259, empty?: false
+s: 5259, n: 5259, acc[1]: 20915
+s: 6651, empty?: false
+s: 6651, n: 6651, acc[1]: 26174
+s: 6781, empty?: false
+s: 6781, n: 6781, acc[1]: 32825
+s: 4354, empty?: false
+s: 4354, n: 4354, acc[1]: 39606
+s: 7187, empty?: false
+s: 7187, n: 7187, acc[1]: 43960
+s: 2438, empty?: false
+s: 2438, n: 2438, acc[1]: 51147
+s: 1651, empty?: false
+s: 1651, n: 1651, acc[1]: 53585
+s: 1455, empty?: false
+s: 1455, n: 1455, acc[1]: 55236
+s: , empty?: true
+s: 5091, empty?: false
+s: 5091, n: 5091, acc[1]: 0
+s: 5021, empty?: false
+s: 5021, n: 5021, acc[1]: 5091
+s: 1578, empty?: false
+s: 1578, n: 1578, acc[1]: 10112
+s: 1839, empty?: false
+s: 1839, n: 1839, acc[1]: 11690
+s: 2447, empty?: false
+s: 2447, n: 2447, acc[1]: 13529
+s: 1410, empty?: false
+s: 1410, n: 1410, acc[1]: 15976
+s: 1551, empty?: false
+s: 1551, n: 1551, acc[1]: 17386
+s: 1273, empty?: false
+s: 1273, n: 1273, acc[1]: 18937
+s: 2870, empty?: false
+s: 2870, n: 2870, acc[1]: 20210
+s: 2060, empty?: false
+s: 2060, n: 2060, acc[1]: 23080
+s: 6062, empty?: false
+s: 6062, n: 6062, acc[1]: 25140
+s: 4994, empty?: false
+s: 4994, n: 4994, acc[1]: 31202
+s: 4425, empty?: false
+s: 4425, n: 4425, acc[1]: 36196
+s: 1142, empty?: false
+s: 1142, n: 1142, acc[1]: 40621
+s: 2121, empty?: false
+s: 2121, n: 2121, acc[1]: 41763
+s: , empty?: true
+s: 25078, empty?: false
+s: 25078, n: 25078, acc[1]: 0
+s: 34262, empty?: false
+s: 34262, n: 34262, acc[1]: 25078
+s: , empty?: true
+s: 3027, empty?: false
+s: 3027, n: 3027, acc[1]: 0
+s: 1504, empty?: false
+s: 1504, n: 1504, acc[1]: 3027
+s: 2559, empty?: false
+s: 2559, n: 2559, acc[1]: 4531
+s: 3905, empty?: false
+s: 3905, n: 3905, acc[1]: 7090
+s: 4918, empty?: false
+s: 4918, n: 4918, acc[1]: 10995
+s: 1442, empty?: false
+s: 1442, n: 1442, acc[1]: 15913
+s: 5269, empty?: false
+s: 5269, n: 5269, acc[1]: 17355
+s: 1792, empty?: false
+s: 1792, n: 1792, acc[1]: 22624
+s: 1787, empty?: false
+s: 1787, n: 1787, acc[1]: 24416
+s: 7325, empty?: false
+s: 7325, n: 7325, acc[1]: 26203
+s: 2833, empty?: false
+s: 2833, n: 2833, acc[1]: 33528
+s: 6804, empty?: false
+s: 6804, n: 6804, acc[1]: 36361
+s: , empty?: true
+s: 10472, empty?: false
+s: 10472, n: 10472, acc[1]: 0
+s: 3468, empty?: false
+s: 3468, n: 3468, acc[1]: 10472
+s: 6981, empty?: false
+s: 6981, n: 6981, acc[1]: 13940
+s: 4162, empty?: false
+s: 4162, n: 4162, acc[1]: 20921
+s: 5889, empty?: false
+s: 5889, n: 5889, acc[1]: 25083
+s: 10528, empty?: false
+s: 10528, n: 10528, acc[1]: 30972
+s: 3516, empty?: false
+s: 3516, n: 3516, acc[1]: 41500
+s: 4516, empty?: false
+s: 4516, n: 4516, acc[1]: 45016
+s: , empty?: true
+s: 5317, empty?: false
+s: 5317, n: 5317, acc[1]: 0
+s: 1944, empty?: false
+s: 1944, n: 1944, acc[1]: 5317
+s: 2244, empty?: false
+s: 2244, n: 2244, acc[1]: 7261
+s: 1565, empty?: false
+s: 1565, n: 1565, acc[1]: 9505
+s: 2805, empty?: false
+s: 2805, n: 2805, acc[1]: 11070
+s: 2058, empty?: false
+s: 2058, n: 2058, acc[1]: 13875
+s: 3249, empty?: false
+s: 3249, n: 3249, acc[1]: 15933
+s: 5589, empty?: false
+s: 5589, n: 5589, acc[1]: 19182
+s: 5225, empty?: false
+s: 5225, n: 5225, acc[1]: 24771
+s: 4472, empty?: false
+s: 4472, n: 4472, acc[1]: 29996
+s: 4292, empty?: false
+s: 4292, n: 4292, acc[1]: 34468
+s: 4096, empty?: false
+s: 4096, n: 4096, acc[1]: 38760
+s: 1682, empty?: false
+s: 1682, n: 1682, acc[1]: 42856
+s: 3780, empty?: false
+s: 3780, n: 3780, acc[1]: 44538
+s: 4732, empty?: false
+s: 4732, n: 4732, acc[1]: 48318
+s: , empty?: true
+s: 2155, empty?: false
+s: 2155, n: 2155, acc[1]: 0
+s: 1915, empty?: false
+s: 1915, n: 1915, acc[1]: 2155
+s: 1390, empty?: false
+s: 1390, n: 1390, acc[1]: 4070
+s: 6056, empty?: false
+s: 6056, n: 6056, acc[1]: 5460
+s: 4997, empty?: false
+s: 4997, n: 4997, acc[1]: 11516
+s: 5247, empty?: false
+s: 5247, n: 5247, acc[1]: 16513
+s: 3565, empty?: false
+s: 3565, n: 3565, acc[1]: 21760
+s: 5359, empty?: false
+s: 5359, n: 5359, acc[1]: 25325
+s: 4920, empty?: false
+s: 4920, n: 4920, acc[1]: 30684
+s: 3193, empty?: false
+s: 3193, n: 3193, acc[1]: 35604
+s: 6103, empty?: false
+s: 6103, n: 6103, acc[1]: 38797
+s: 5942, empty?: false
+s: 5942, n: 5942, acc[1]: 44900
+s: , empty?: true
+s: 5728, empty?: false
+s: 5728, n: 5728, acc[1]: 0
+s: 1735, empty?: false
+s: 1735, n: 1735, acc[1]: 5728
+s: 2890, empty?: false
+s: 2890, n: 2890, acc[1]: 7463
+s: 2208, empty?: false
+s: 2208, n: 2208, acc[1]: 10353
+s: 4913, empty?: false
+s: 4913, n: 4913, acc[1]: 12561
+s: 3879, empty?: false
+s: 3879, n: 3879, acc[1]: 17474
+s: 6078, empty?: false
+s: 6078, n: 6078, acc[1]: 21353
+s: 3237, empty?: false
+s: 3237, n: 3237, acc[1]: 27431
+s: 2997, empty?: false
+s: 2997, n: 2997, acc[1]: 30668
+s: 3109, empty?: false
+s: 3109, n: 3109, acc[1]: 33665
+s: 1150, empty?: false
+s: 1150, n: 1150, acc[1]: 36774
+s: 4648, empty?: false
+s: 4648, n: 4648, acc[1]: 37924
+s: , empty?: true
+s: 4368, empty?: false
+s: 4368, n: 4368, acc[1]: 0
+s: 6370, empty?: false
+s: 6370, n: 6370, acc[1]: 4368
+s: 5658, empty?: false
+s: 5658, n: 5658, acc[1]: 10738
+s: 2440, empty?: false
+s: 2440, n: 2440, acc[1]: 16396
+s: 3404, empty?: false
+s: 3404, n: 3404, acc[1]: 18836
+s: 1849, empty?: false
+s: 1849, n: 1849, acc[1]: 22240
+s: 5650, empty?: false
+s: 5650, n: 5650, acc[1]: 24089
+s: 3261, empty?: false
+s: 3261, n: 3261, acc[1]: 29739
+s: 4920, empty?: false
+s: 4920, n: 4920, acc[1]: 33000
+s: 4114, empty?: false
+s: 4114, n: 4114, acc[1]: 37920
+s: 3673, empty?: false
+s: 3673, n: 3673, acc[1]: 42034
+s: 6330, empty?: false
+s: 6330, n: 6330, acc[1]: 45707
+s: 4183, empty?: false
+s: 4183, n: 4183, acc[1]: 52037
+s: 5309, empty?: false
+s: 5309, n: 5309, acc[1]: 56220
+s: , empty?: true
+None: [61205, 61529]
+s: 3227, empty?: false
+s: 3227, n: 3227, acc[1]: 0
+s: 2526, empty?: false
+s: 2526, n: 2526, acc[1]: 3227
+s: 7386, empty?: false
+s: 7386, n: 7386, acc[1]: 5753
+s: 6005, empty?: false
+s: 6005, n: 6005, acc[1]: 13139
+s: 5441, empty?: false
+s: 5441, n: 5441, acc[1]: 19144
+s: 8946, empty?: false
+s: 8946, n: 8946, acc[1]: 24585
+s: 2415, empty?: false
+s: 2415, n: 2415, acc[1]: 33531
+s: 8447, empty?: false
+s: 8447, n: 8447, acc[1]: 35946
+s: 9143, empty?: false
+s: 9143, n: 9143, acc[1]: 44393
+s: , empty?: true
+s: 2211, empty?: false
+s: 2211, n: 2211, acc[1]: 0
+s: 5669, empty?: false
+s: 5669, n: 5669, acc[1]: 2211
+s: 1077, empty?: false
+s: 1077, n: 1077, acc[1]: 7880
+s: 3134, empty?: false
+s: 3134, n: 3134, acc[1]: 8957
+s: 1072, empty?: false
+s: 1072, n: 1072, acc[1]: 12091
+s: 3419, empty?: false
+s: 3419, n: 3419, acc[1]: 13163
+s: 5779, empty?: false
+s: 5779, n: 5779, acc[1]: 16582
+s: 3499, empty?: false
+s: 3499, n: 3499, acc[1]: 22361
+s: 5291, empty?: false
+s: 5291, n: 5291, acc[1]: 25860
+s: 2636, empty?: false
+s: 2636, n: 2636, acc[1]: 31151
+s: 5031, empty?: false
+s: 5031, n: 5031, acc[1]: 33787
+s: 4309, empty?: false
+s: 4309, n: 4309, acc[1]: 38818
+s: 4030, empty?: false
+s: 4030, n: 4030, acc[1]: 43127
+s: 6032, empty?: false
+s: 6032, n: 6032, acc[1]: 47157
+s: 3512, empty?: false
+s: 3512, n: 3512, acc[1]: 53189
+s: , empty?: true
+s: 40358, empty?: false
+s: 40358, n: 40358, acc[1]: 0
+s: , empty?: true
+s: 31692, empty?: false
+s: 31692, n: 31692, acc[1]: 0
+s: 14965, empty?: false
+s: 14965, n: 14965, acc[1]: 31692
+s: , empty?: true
+s: 12952, empty?: false
+s: 12952, n: 12952, acc[1]: 0
+s: 19656, empty?: false
+s: 19656, n: 19656, acc[1]: 12952
+s: 13010, empty?: false
+s: 13010, n: 13010, acc[1]: 32608
+s: 15201, empty?: false
+s: 15201, n: 15201, acc[1]: 45618
+s: , empty?: true
+s: 3398, empty?: false
+s: 3398, n: 3398, acc[1]: 0
+s: 5373, empty?: false
+s: 5373, n: 5373, acc[1]: 3398
+s: 2074, empty?: false
+s: 2074, n: 2074, acc[1]: 8771
+s: 4864, empty?: false
+s: 4864, n: 4864, acc[1]: 10845
+s: 2925, empty?: false
+s: 2925, n: 2925, acc[1]: 15709
+s: 3543, empty?: false
+s: 3543, n: 3543, acc[1]: 18634
+s: 4632, empty?: false
+s: 4632, n: 4632, acc[1]: 22177
+s: 2032, empty?: false
+s: 2032, n: 2032, acc[1]: 26809
+s: 1007, empty?: false
+s: 1007, n: 1007, acc[1]: 28841
+s: 5758, empty?: false
+s: 5758, n: 5758, acc[1]: 29848
+s: 2815, empty?: false
+s: 2815, n: 2815, acc[1]: 35606
+s: 5935, empty?: false
+s: 5935, n: 5935, acc[1]: 38421
+s: 3093, empty?: false
+s: 3093, n: 3093, acc[1]: 44356
+s: 1169, empty?: false
+s: 1169, n: 1169, acc[1]: 47449
+s: 2964, empty?: false
+s: 2964, n: 2964, acc[1]: 48618
+s: , empty?: true
+s: 8110, empty?: false
+s: 8110, n: 8110, acc[1]: 0
+s: 12093, empty?: false
+s: 12093, n: 12093, acc[1]: 8110
+s: 13122, empty?: false
+s: 13122, n: 13122, acc[1]: 20203
+s: 3915, empty?: false
+s: 3915, n: 3915, acc[1]: 33325
+s: 7332, empty?: false
+s: 7332, n: 7332, acc[1]: 37240
+s: 12319, empty?: false
+s: 12319, n: 12319, acc[1]: 44572
+s: , empty?: true
+s: 4963, empty?: false
+s: 4963, n: 4963, acc[1]: 0
+s: 5227, empty?: false
+s: 5227, n: 5227, acc[1]: 4963
+s: 1525, empty?: false
+s: 1525, n: 1525, acc[1]: 10190
+s: 8650, empty?: false
+s: 8650, n: 8650, acc[1]: 11715
+s: 6907, empty?: false
+s: 6907, n: 6907, acc[1]: 20365
+s: 2828, empty?: false
+s: 2828, n: 2828, acc[1]: 27272
+s: 8473, empty?: false
+s: 8473, n: 8473, acc[1]: 30100
+s: 5287, empty?: false
+s: 5287, n: 5287, acc[1]: 38573
+s: 8196, empty?: false
+s: 8196, n: 8196, acc[1]: 43860
+s: 2071, empty?: false
+s: 2071, n: 2071, acc[1]: 52056
+s: , empty?: true
+s: 12969, empty?: false
+s: 12969, n: 12969, acc[1]: 0
+s: 22624, empty?: false
+s: 22624, n: 22624, acc[1]: 12969
+s: , empty?: true
+s: 6327, empty?: false
+s: 6327, n: 6327, acc[1]: 0
+s: 5381, empty?: false
+s: 5381, n: 5381, acc[1]: 6327
+s: 1572, empty?: false
+s: 1572, n: 1572, acc[1]: 11708
+s: 2113, empty?: false
+s: 2113, n: 2113, acc[1]: 13280
+s: 10240, empty?: false
+s: 10240, n: 10240, acc[1]: 15393
+s: 5360, empty?: false
+s: 5360, n: 5360, acc[1]: 25633
+s: 10614, empty?: false
+s: 10614, n: 10614, acc[1]: 30993
+s: 2960, empty?: false
+s: 2960, n: 2960, acc[1]: 41607
+s: , empty?: true
+s: 3800, empty?: false
+s: 3800, n: 3800, acc[1]: 0
+s: 11368, empty?: false
+s: 11368, n: 11368, acc[1]: 3800
+s: 9929, empty?: false
+s: 9929, n: 9929, acc[1]: 15168
+s: 12344, empty?: false
+s: 12344, n: 12344, acc[1]: 25097
+s: 5461, empty?: false
+s: 5461, n: 5461, acc[1]: 37441
+s: 11666, empty?: false
+s: 11666, n: 11666, acc[1]: 42902
+s: , empty?: true
+s: 19639, empty?: false
+s: 19639, n: 19639, acc[1]: 0
+s: 14660, empty?: false
+s: 14660, n: 14660, acc[1]: 19639
+s: 7046, empty?: false
+s: 7046, n: 7046, acc[1]: 34299
+s: , empty?: true
+s: 4562, empty?: false
+s: 4562, n: 4562, acc[1]: 0
+s: 1583, empty?: false
+s: 1583, n: 1583, acc[1]: 4562
+s: 2616, empty?: false
+s: 2616, n: 2616, acc[1]: 6145
+s: 5800, empty?: false
+s: 5800, n: 5800, acc[1]: 8761
+s: 6350, empty?: false
+s: 6350, n: 6350, acc[1]: 14561
+s: 3762, empty?: false
+s: 3762, n: 3762, acc[1]: 20911
+s: 6491, empty?: false
+s: 6491, n: 6491, acc[1]: 24673
+s: 1047, empty?: false
+s: 1047, n: 1047, acc[1]: 31164
+s: 3559, empty?: false
+s: 3559, n: 3559, acc[1]: 32211
+s: 1388, empty?: false
+s: 1388, n: 1388, acc[1]: 35770
+s: 4772, empty?: false
+s: 4772, n: 4772, acc[1]: 37158
+s: 6413, empty?: false
+s: 6413, n: 6413, acc[1]: 41930
+s: 3066, empty?: false
+s: 3066, n: 3066, acc[1]: 48343
+s: , empty?: true
+s: 10721, empty?: false
+s: 10721, n: 10721, acc[1]: 0
+s: 10685, empty?: false
+s: 10685, n: 10685, acc[1]: 10721
+s: 3925, empty?: false
+s: 3925, n: 3925, acc[1]: 21406
+s: 1461, empty?: false
+s: 1461, n: 1461, acc[1]: 25331
+s: 4136, empty?: false
+s: 4136, n: 4136, acc[1]: 26792
+s: 3510, empty?: false
+s: 3510, n: 3510, acc[1]: 30928
+s: 3989, empty?: false
+s: 3989, n: 3989, acc[1]: 34438
+s: 9199, empty?: false
+s: 9199, n: 9199, acc[1]: 38427
+s: , empty?: true
+s: 2538, empty?: false
+s: 2538, n: 2538, acc[1]: 0
+s: 4798, empty?: false
+s: 4798, n: 4798, acc[1]: 2538
+s: 2645, empty?: false
+s: 2645, n: 2645, acc[1]: 7336
+s: 3236, empty?: false
+s: 3236, n: 3236, acc[1]: 9981
+s: 1113, empty?: false
+s: 1113, n: 1113, acc[1]: 13217
+s: 1155, empty?: false
+s: 1155, n: 1155, acc[1]: 14330
+s: 3634, empty?: false
+s: 3634, n: 3634, acc[1]: 15485
+s: 2228, empty?: false
+s: 2228, n: 2228, acc[1]: 19119
+s: 1475, empty?: false
+s: 1475, n: 1475, acc[1]: 21347
+s: 2261, empty?: false
+s: 2261, n: 2261, acc[1]: 22822
+s: 4527, empty?: false
+s: 4527, n: 4527, acc[1]: 25083
+s: 1498, empty?: false
+s: 1498, n: 1498, acc[1]: 29610
+s: 2891, empty?: false
+s: 2891, n: 2891, acc[1]: 31108
+s: 6087, empty?: false
+s: 6087, n: 6087, acc[1]: 33999
+s: 2632, empty?: false
+s: 2632, n: 2632, acc[1]: 40086
+s: , empty?: true
+s: 16730, empty?: false
+s: 16730, n: 16730, acc[1]: 0
+s: 3334, empty?: false
+s: 3334, n: 3334, acc[1]: 16730
+s: 9006, empty?: false
+s: 9006, n: 9006, acc[1]: 20064
+s: 3657, empty?: false
+s: 3657, n: 3657, acc[1]: 29070
+s: , empty?: true
+s: 5665, empty?: false
+s: 5665, n: 5665, acc[1]: 0
+s: 5504, empty?: false
+s: 5504, n: 5504, acc[1]: 5665
+s: 3037, empty?: false
+s: 3037, n: 3037, acc[1]: 11169
+s: 10040, empty?: false
+s: 10040, n: 10040, acc[1]: 14206
+s: 6716, empty?: false
+s: 6716, n: 6716, acc[1]: 24246
+s: 3769, empty?: false
+s: 3769, n: 3769, acc[1]: 30962
+s: 3756, empty?: false
+s: 3756, n: 3756, acc[1]: 34731
+s: , empty?: true
+s: 3537, empty?: false
+s: 3537, n: 3537, acc[1]: 0
+s: 2809, empty?: false
+s: 2809, n: 2809, acc[1]: 3537
+s: 6097, empty?: false
+s: 6097, n: 6097, acc[1]: 6346
+s: 8067, empty?: false
+s: 8067, n: 8067, acc[1]: 12443
+s: 3411, empty?: false
+s: 3411, n: 3411, acc[1]: 20510
+s: 4135, empty?: false
+s: 4135, n: 4135, acc[1]: 23921
+s: 7782, empty?: false
+s: 7782, n: 7782, acc[1]: 28056
+s: 3367, empty?: false
+s: 3367, n: 3367, acc[1]: 35838
+s: 1799, empty?: false
+s: 1799, n: 1799, acc[1]: 39205
+s: 3663, empty?: false
+s: 3663, n: 3663, acc[1]: 41004
+s: , empty?: true
+s: 10185, empty?: false
+s: 10185, n: 10185, acc[1]: 0
+s: 6481, empty?: false
+s: 6481, n: 6481, acc[1]: 10185
+s: 11360, empty?: false
+s: 11360, n: 11360, acc[1]: 16666
+s: 6493, empty?: false
+s: 6493, n: 6493, acc[1]: 28026
+s: 10001, empty?: false
+s: 10001, n: 10001, acc[1]: 34519
+s: 7424, empty?: false
+s: 7424, n: 7424, acc[1]: 44520
+s: 9674, empty?: false
+s: 9674, n: 9674, acc[1]: 51944
+s: , empty?: true
+None: [61529, 61618]
+s: 5844, empty?: false
+s: 5844, n: 5844, acc[1]: 0
+s: 12305, empty?: false
+s: 12305, n: 12305, acc[1]: 5844
+s: 7993, empty?: false
+s: 7993, n: 7993, acc[1]: 18149
+s: 1325, empty?: false
+s: 1325, n: 1325, acc[1]: 26142
+s: 10357, empty?: false
+s: 10357, n: 10357, acc[1]: 27467
+s: 9896, empty?: false
+s: 9896, n: 9896, acc[1]: 37824
+s: , empty?: true
+s: 9400, empty?: false
+s: 9400, n: 9400, acc[1]: 0
+s: 6803, empty?: false
+s: 6803, n: 6803, acc[1]: 9400
+s: 3442, empty?: false
+s: 3442, n: 3442, acc[1]: 16203
+s: 5199, empty?: false
+s: 5199, n: 5199, acc[1]: 19645
+s: 9582, empty?: false
+s: 9582, n: 9582, acc[1]: 24844
+s: 2029, empty?: false
+s: 2029, n: 2029, acc[1]: 34426
+s: 2664, empty?: false
+s: 2664, n: 2664, acc[1]: 36455
+s: 1211, empty?: false
+s: 1211, n: 1211, acc[1]: 39119
+s: 2642, empty?: false
+s: 2642, n: 2642, acc[1]: 40330
+s: , empty?: true
+s: 1069, empty?: false
+s: 1069, n: 1069, acc[1]: 0
+s: 8063, empty?: false
+s: 8063, n: 8063, acc[1]: 1069
+s: 2822, empty?: false
+s: 2822, n: 2822, acc[1]: 9132
+s: 3453, empty?: false
+s: 3453, n: 3453, acc[1]: 11954
+s: 2786, empty?: false
+s: 2786, n: 2786, acc[1]: 15407
+s: 5941, empty?: false
+s: 5941, n: 5941, acc[1]: 18193
+s: 6783, empty?: false
+s: 6783, n: 6783, acc[1]: 24134
+s: 1145, empty?: false
+s: 1145, n: 1145, acc[1]: 30917
+s: 6080, empty?: false
+s: 6080, n: 6080, acc[1]: 32062
+s: 2862, empty?: false
+s: 2862, n: 2862, acc[1]: 38142
+s: 7190, empty?: false
+s: 7190, n: 7190, acc[1]: 41004
+s: , empty?: true
+s: 5080, empty?: false
+s: 5080, n: 5080, acc[1]: 0
+s: 6563, empty?: false
+s: 6563, n: 6563, acc[1]: 5080
+s: 5357, empty?: false
+s: 5357, n: 5357, acc[1]: 11643
+s: 4338, empty?: false
+s: 4338, n: 4338, acc[1]: 17000
+s: 1616, empty?: false
+s: 1616, n: 1616, acc[1]: 21338
+s: 10436, empty?: false
+s: 10436, n: 10436, acc[1]: 22954
+s: 3433, empty?: false
+s: 3433, n: 3433, acc[1]: 33390
+s: , empty?: true
+s: 5512, empty?: false
+s: 5512, n: 5512, acc[1]: 0
+s: 2337, empty?: false
+s: 2337, n: 2337, acc[1]: 5512
+s: 3013, empty?: false
+s: 3013, n: 3013, acc[1]: 7849
+s: 1399, empty?: false
+s: 1399, n: 1399, acc[1]: 10862
+s: 1058, empty?: false
+s: 1058, n: 1058, acc[1]: 12261
+s: 1381, empty?: false
+s: 1381, n: 1381, acc[1]: 13319
+s: 3681, empty?: false
+s: 3681, n: 3681, acc[1]: 14700
+s: 2549, empty?: false
+s: 2549, n: 2549, acc[1]: 18381
+s: 2204, empty?: false
+s: 2204, n: 2204, acc[1]: 20930
+s: 4949, empty?: false
+s: 4949, n: 4949, acc[1]: 23134
+s: 2928, empty?: false
+s: 2928, n: 2928, acc[1]: 28083
+s: 1027, empty?: false
+s: 1027, n: 1027, acc[1]: 31011
+s: 2538, empty?: false
+s: 2538, n: 2538, acc[1]: 32038
+s: 5636, empty?: false
+s: 5636, n: 5636, acc[1]: 34576
+s: 2195, empty?: false
+s: 2195, n: 2195, acc[1]: 40212
+s: , empty?: true
+s: 1847, empty?: false
+s: 1847, n: 1847, acc[1]: 0
+s: 3848, empty?: false
+s: 3848, n: 3848, acc[1]: 1847
+s: 1883, empty?: false
+s: 1883, n: 1883, acc[1]: 5695
+s: 6559, empty?: false
+s: 6559, n: 6559, acc[1]: 7578
+s: 2248, empty?: false
+s: 2248, n: 2248, acc[1]: 14137
+s: 3401, empty?: false
+s: 3401, n: 3401, acc[1]: 16385
+s: 2301, empty?: false
+s: 2301, n: 2301, acc[1]: 19786
+s: 5408, empty?: false
+s: 5408, n: 5408, acc[1]: 22087
+s: 2119, empty?: false
+s: 2119, n: 2119, acc[1]: 27495
+s: 4829, empty?: false
+s: 4829, n: 4829, acc[1]: 29614
+s: 6262, empty?: false
+s: 6262, n: 6262, acc[1]: 34443
+s: 3358, empty?: false
+s: 3358, n: 3358, acc[1]: 40705
+s: 6641, empty?: false
+s: 6641, n: 6641, acc[1]: 44063
+s: , empty?: true
+s: 16613, empty?: false
+s: 16613, n: 16613, acc[1]: 0
+s: , empty?: true
+s: 4989, empty?: false
+s: 4989, n: 4989, acc[1]: 0
+s: 4027, empty?: false
+s: 4027, n: 4027, acc[1]: 4989
+s: 2571, empty?: false
+s: 2571, n: 2571, acc[1]: 9016
+s: 1680, empty?: false
+s: 1680, n: 1680, acc[1]: 11587
+s: 6420, empty?: false
+s: 6420, n: 6420, acc[1]: 13267
+s: 5858, empty?: false
+s: 5858, n: 5858, acc[1]: 19687
+s: 2363, empty?: false
+s: 2363, n: 2363, acc[1]: 25545
+s: 1007, empty?: false
+s: 1007, n: 1007, acc[1]: 27908
+s: 1410, empty?: false
+s: 1410, n: 1410, acc[1]: 28915
+s: 5902, empty?: false
+s: 5902, n: 5902, acc[1]: 30325
+s: 3149, empty?: false
+s: 3149, n: 3149, acc[1]: 36227
+s: 4577, empty?: false
+s: 4577, n: 4577, acc[1]: 39376
+s: 2635, empty?: false
+s: 2635, n: 2635, acc[1]: 43953
+s: , empty?: true
+s: 3689, empty?: false
+s: 3689, n: 3689, acc[1]: 0
+s: 1667, empty?: false
+s: 1667, n: 1667, acc[1]: 3689
+s: 2261, empty?: false
+s: 2261, n: 2261, acc[1]: 5356
+s: 5602, empty?: false
+s: 5602, n: 5602, acc[1]: 7617
+s: 6024, empty?: false
+s: 6024, n: 6024, acc[1]: 13219
+s: 4590, empty?: false
+s: 4590, n: 4590, acc[1]: 19243
+s: 5938, empty?: false
+s: 5938, n: 5938, acc[1]: 23833
+s: 4165, empty?: false
+s: 4165, n: 4165, acc[1]: 29771
+s: 3867, empty?: false
+s: 3867, n: 3867, acc[1]: 33936
+s: 5605, empty?: false
+s: 5605, n: 5605, acc[1]: 37803
+s: 2519, empty?: false
+s: 2519, n: 2519, acc[1]: 43408
+s: 2179, empty?: false
+s: 2179, n: 2179, acc[1]: 45927
+s: 4325, empty?: false
+s: 4325, n: 4325, acc[1]: 48106
+s: 5723, empty?: false
+s: 5723, n: 5723, acc[1]: 52431
+s: 2871, empty?: false
+s: 2871, n: 2871, acc[1]: 58154
+s: , empty?: true
+s: 4223, empty?: false
+s: 4223, n: 4223, acc[1]: 0
+s: 5264, empty?: false
+s: 5264, n: 5264, acc[1]: 4223
+s: 1189, empty?: false
+s: 1189, n: 1189, acc[1]: 9487
+s: 5439, empty?: false
+s: 5439, n: 5439, acc[1]: 10676
+s: 2576, empty?: false
+s: 2576, n: 2576, acc[1]: 16115
+s: 6225, empty?: false
+s: 6225, n: 6225, acc[1]: 18691
+s: 1931, empty?: false
+s: 1931, n: 1931, acc[1]: 24916
+s: 1656, empty?: false
+s: 1656, n: 1656, acc[1]: 26847
+s: 7521, empty?: false
+s: 7521, n: 7521, acc[1]: 28503
+s: 1963, empty?: false
+s: 1963, n: 1963, acc[1]: 36024
+s: , empty?: true
+s: 8246, empty?: false
+s: 8246, n: 8246, acc[1]: 0
+s: 6922, empty?: false
+s: 6922, n: 6922, acc[1]: 8246
+s: 4192, empty?: false
+s: 4192, n: 4192, acc[1]: 15168
+s: , empty?: true
+s: 3380, empty?: false
+s: 3380, n: 3380, acc[1]: 0
+s: 3689, empty?: false
+s: 3689, n: 3689, acc[1]: 3380
+s: 4228, empty?: false
+s: 4228, n: 4228, acc[1]: 7069
+s: 4975, empty?: false
+s: 4975, n: 4975, acc[1]: 11297
+s: 5185, empty?: false
+s: 5185, n: 5185, acc[1]: 16272
+s: 2469, empty?: false
+s: 2469, n: 2469, acc[1]: 21457
+s: 2912, empty?: false
+s: 2912, n: 2912, acc[1]: 23926
+s: 5014, empty?: false
+s: 5014, n: 5014, acc[1]: 26838
+s: 5115, empty?: false
+s: 5115, n: 5115, acc[1]: 31852
+s: 1276, empty?: false
+s: 1276, n: 1276, acc[1]: 36967
+s: 5895, empty?: false
+s: 5895, n: 5895, acc[1]: 38243
+s: 5189, empty?: false
+s: 5189, n: 5189, acc[1]: 44138
+s: 5345, empty?: false
+s: 5345, n: 5345, acc[1]: 49327
+s: 4321, empty?: false
+s: 4321, n: 4321, acc[1]: 54672
+s: 3142, empty?: false
+s: 3142, n: 3142, acc[1]: 58993
+s: , empty?: true
+None: [61618, 62135]
+s: 1190, empty?: false
+s: 1190, n: 1190, acc[1]: 0
+s: 10126, empty?: false
+s: 10126, n: 10126, acc[1]: 1190
+s: 15028, empty?: false
+s: 15028, n: 15028, acc[1]: 11316
+s: 7406, empty?: false
+s: 7406, n: 7406, acc[1]: 26344
+s: , empty?: true
+s: 7153, empty?: false
+s: 7153, n: 7153, acc[1]: 0
+s: 9689, empty?: false
+s: 9689, n: 9689, acc[1]: 7153
+s: 11330, empty?: false
+s: 11330, n: 11330, acc[1]: 16842
+s: , empty?: true
+s: 2185, empty?: false
+s: 2185, n: 2185, acc[1]: 0
+s: 1658, empty?: false
+s: 1658, n: 1658, acc[1]: 2185
+s: 4927, empty?: false
+s: 4927, n: 4927, acc[1]: 3843
+s: 4138, empty?: false
+s: 4138, n: 4138, acc[1]: 8770
+s: 5015, empty?: false
+s: 5015, n: 5015, acc[1]: 12908
+s: 3019, empty?: false
+s: 3019, n: 3019, acc[1]: 17923
+s: 4896, empty?: false
+s: 4896, n: 4896, acc[1]: 20942
+s: 3345, empty?: false
+s: 3345, n: 3345, acc[1]: 25838
+s: 2600, empty?: false
+s: 2600, n: 2600, acc[1]: 29183
+s: 2515, empty?: false
+s: 2515, n: 2515, acc[1]: 31783
+s: 4061, empty?: false
+s: 4061, n: 4061, acc[1]: 34298
+s: 4969, empty?: false
+s: 4969, n: 4969, acc[1]: 38359
+s: 4687, empty?: false
+s: 4687, n: 4687, acc[1]: 43328
+s: 5080, empty?: false
+s: 5080, n: 5080, acc[1]: 48015
+s: 1922, empty?: false
+s: 1922, n: 1922, acc[1]: 53095
+s: , empty?: true
+s: 1780, empty?: false
+s: 1780, n: 1780, acc[1]: 0
+s: 5589, empty?: false
+s: 5589, n: 5589, acc[1]: 1780
+s: 5777, empty?: false
+s: 5777, n: 5777, acc[1]: 7369
+s: 2203, empty?: false
+s: 2203, n: 2203, acc[1]: 13146
+s: 2353, empty?: false
+s: 2353, n: 2353, acc[1]: 15349
+s: 4076, empty?: false
+s: 4076, n: 4076, acc[1]: 17702
+s: 4638, empty?: false
+s: 4638, n: 4638, acc[1]: 21778
+s: 4756, empty?: false
+s: 4756, n: 4756, acc[1]: 26416
+s: 4865, empty?: false
+s: 4865, n: 4865, acc[1]: 31172
+s: 2753, empty?: false
+s: 2753, n: 2753, acc[1]: 36037
+s: 5506, empty?: false
+s: 5506, n: 5506, acc[1]: 38790
+s: 3414, empty?: false
+s: 3414, n: 3414, acc[1]: 44296
+s: 3719, empty?: false
+s: 3719, n: 3719, acc[1]: 47710
+s: , empty?: true
+s: 10077, empty?: false
+s: 10077, n: 10077, acc[1]: 0
+s: 1961, empty?: false
+s: 1961, n: 1961, acc[1]: 10077
+s: 6853, empty?: false
+s: 6853, n: 6853, acc[1]: 12038
+s: 7785, empty?: false
+s: 7785, n: 7785, acc[1]: 18891
+s: 8162, empty?: false
+s: 8162, n: 8162, acc[1]: 26676
+s: 3223, empty?: false
+s: 3223, n: 3223, acc[1]: 34838
+s: 9308, empty?: false
+s: 9308, n: 9308, acc[1]: 38061
+s: 9503, empty?: false
+s: 9503, n: 9503, acc[1]: 47369
+s: , empty?: true
+s: 1696, empty?: false
+s: 1696, n: 1696, acc[1]: 0
+s: 5954, empty?: false
+s: 5954, n: 5954, acc[1]: 1696
+s: 2794, empty?: false
+s: 2794, n: 2794, acc[1]: 7650
+s: 5953, empty?: false
+s: 5953, n: 5953, acc[1]: 10444
+s: 3074, empty?: false
+s: 3074, n: 3074, acc[1]: 16397
+s: 2389, empty?: false
+s: 2389, n: 2389, acc[1]: 19471
+s: 7979, empty?: false
+s: 7979, n: 7979, acc[1]: 21860
+s: 5520, empty?: false
+s: 5520, n: 5520, acc[1]: 29839
+s: 6627, empty?: false
+s: 6627, n: 6627, acc[1]: 35359
+s: 2819, empty?: false
+s: 2819, n: 2819, acc[1]: 41986
+s: , empty?: true
+s: 4776, empty?: false
+s: 4776, n: 4776, acc[1]: 0
+s: 1103, empty?: false
+s: 1103, n: 1103, acc[1]: 4776
+s: 3523, empty?: false
+s: 3523, n: 3523, acc[1]: 5879
+s: 3588, empty?: false
+s: 3588, n: 3588, acc[1]: 9402
+s: 6149, empty?: false
+s: 6149, n: 6149, acc[1]: 12990
+s: 4018, empty?: false
+s: 4018, n: 4018, acc[1]: 19139
+s: 1723, empty?: false
+s: 1723, n: 1723, acc[1]: 23157
+s: 3324, empty?: false
+s: 3324, n: 3324, acc[1]: 24880
+s: , empty?: true
+s: 11150, empty?: false
+s: 11150, n: 11150, acc[1]: 0
+s: 1707, empty?: false
+s: 1707, n: 1707, acc[1]: 11150
+s: 13525, empty?: false
+s: 13525, n: 13525, acc[1]: 12857
+s: 8213, empty?: false
+s: 8213, n: 8213, acc[1]: 26382
+s: 2115, empty?: false
+s: 2115, n: 2115, acc[1]: 34595
+s: , empty?: true
+s: 1948, empty?: false
+s: 1948, n: 1948, acc[1]: 0
+s: 9407, empty?: false
+s: 9407, n: 9407, acc[1]: 1948
+s: 11624, empty?: false
+s: 11624, n: 11624, acc[1]: 11355
+s: 12246, empty?: false
+s: 12246, n: 12246, acc[1]: 22979
+s: 13241, empty?: false
+s: 13241, n: 13241, acc[1]: 35225
+s: 7043, empty?: false
+s: 7043, n: 7043, acc[1]: 48466
+s: , empty?: true
+s: 3025, empty?: false
+s: 3025, n: 3025, acc[1]: 0
+s: 2063, empty?: false
+s: 2063, n: 2063, acc[1]: 3025
+s: 2533, empty?: false
+s: 2533, n: 2533, acc[1]: 5088
+s: 5294, empty?: false
+s: 5294, n: 5294, acc[1]: 7621
+s: 1735, empty?: false
+s: 1735, n: 1735, acc[1]: 12915
+s: 5824, empty?: false
+s: 5824, n: 5824, acc[1]: 14650
+s: 2922, empty?: false
+s: 2922, n: 2922, acc[1]: 20474
+s: 1040, empty?: false
+s: 1040, n: 1040, acc[1]: 23396
+s: 4752, empty?: false
+s: 4752, n: 4752, acc[1]: 24436
+s: 6320, empty?: false
+s: 6320, n: 6320, acc[1]: 29188
+s: 4472, empty?: false
+s: 4472, n: 4472, acc[1]: 35508
+s: 5532, empty?: false
+s: 5532, n: 5532, acc[1]: 39980
+s: 5041, empty?: false
+s: 5041, n: 5041, acc[1]: 45512
+s: , empty?: true
+s: 5642, empty?: false
+s: 5642, n: 5642, acc[1]: 0
+s: 6205, empty?: false
+s: 6205, n: 6205, acc[1]: 5642
+s: 11345, empty?: false
+s: 11345, n: 11345, acc[1]: 11847
+s: 9931, empty?: false
+s: 9931, n: 9931, acc[1]: 23192
+s: 2197, empty?: false
+s: 2197, n: 2197, acc[1]: 33123
+s: 9651, empty?: false
+s: 9651, n: 9651, acc[1]: 35320
+s: 6873, empty?: false
+s: 6873, n: 6873, acc[1]: 44971
+s: , empty?: true
+s: 16801, empty?: false
+s: 16801, n: 16801, acc[1]: 0
+s: 1179, empty?: false
+s: 1179, n: 1179, acc[1]: 16801
+s: 10958, empty?: false
+s: 10958, n: 10958, acc[1]: 17980
+s: 13260, empty?: false
+s: 13260, n: 13260, acc[1]: 28938
+s: , empty?: true
+s: 4806, empty?: false
+s: 4806, n: 4806, acc[1]: 0
+s: 1169, empty?: false
+s: 1169, n: 1169, acc[1]: 4806
+s: 3454, empty?: false
+s: 3454, n: 3454, acc[1]: 5975
+s: 5784, empty?: false
+s: 5784, n: 5784, acc[1]: 9429
+s: 3091, empty?: false
+s: 3091, n: 3091, acc[1]: 15213
+s: 5289, empty?: false
+s: 5289, n: 5289, acc[1]: 18304
+s: 2835, empty?: false
+s: 2835, n: 2835, acc[1]: 23593
+s: 1945, empty?: false
+s: 1945, n: 1945, acc[1]: 26428
+s: 4995, empty?: false
+s: 4995, n: 4995, acc[1]: 28373
+s: 2012, empty?: false
+s: 2012, n: 2012, acc[1]: 33368
+s: 3479, empty?: false
+s: 3479, n: 3479, acc[1]: 35380
+s: 6390, empty?: false
+s: 6390, n: 6390, acc[1]: 38859
+s: 1073, empty?: false
+s: 1073, n: 1073, acc[1]: 45249
+s: 5500, empty?: false
+s: 5500, n: 5500, acc[1]: 46322
+s: , empty?: true
+s: 3531, empty?: false
+s: 3531, n: 3531, acc[1]: 0
+s: 13321, empty?: false
+s: 13321, n: 13321, acc[1]: 3531
+s: 15104, empty?: false
+s: 15104, n: 15104, acc[1]: 16852
+s: 7899, empty?: false
+s: 7899, n: 7899, acc[1]: 31956
+s: 6287, empty?: false
+s: 6287, n: 6287, acc[1]: 39855
+s: , empty?: true
+s: 27261, empty?: false
+s: 27261, n: 27261, acc[1]: 0
+s: 4225, empty?: false
+s: 4225, n: 4225, acc[1]: 27261
+s: , empty?: true
+s: 3104, empty?: false
+s: 3104, n: 3104, acc[1]: 0
+s: 3965, empty?: false
+s: 3965, n: 3965, acc[1]: 3104
+s: 1952, empty?: false
+s: 1952, n: 1952, acc[1]: 7069
+s: 6493, empty?: false
+s: 6493, n: 6493, acc[1]: 9021
+s: 6428, empty?: false
+s: 6428, n: 6428, acc[1]: 15514
+s: 6560, empty?: false
+s: 6560, n: 6560, acc[1]: 21942
+s: 2107, empty?: false
+s: 2107, n: 2107, acc[1]: 28502
+s: 8364, empty?: false
+s: 8364, n: 8364, acc[1]: 30609
+s: 6541, empty?: false
+s: 6541, n: 6541, acc[1]: 38973
+s: 5709, empty?: false
+s: 5709, n: 5709, acc[1]: 45514
+s: , empty?: true
+s: 4137, empty?: false
+s: 4137, n: 4137, acc[1]: 0
+s: 6331, empty?: false
+s: 6331, n: 6331, acc[1]: 4137
+s: 4564, empty?: false
+s: 4564, n: 4564, acc[1]: 10468
+s: 6203, empty?: false
+s: 6203, n: 6203, acc[1]: 15032
+s: 2540, empty?: false
+s: 2540, n: 2540, acc[1]: 21235
+s: 6225, empty?: false
+s: 6225, n: 6225, acc[1]: 23775
+s: 3827, empty?: false
+s: 3827, n: 3827, acc[1]: 30000
+s: 5882, empty?: false
+s: 5882, n: 5882, acc[1]: 33827
+s: 3418, empty?: false
+s: 3418, n: 3418, acc[1]: 39709
+s: 2746, empty?: false
+s: 2746, n: 2746, acc[1]: 43127
+s: 6495, empty?: false
+s: 6495, n: 6495, acc[1]: 45873
+s: 2909, empty?: false
+s: 2909, n: 2909, acc[1]: 52368
+s: 1959, empty?: false
+s: 1959, n: 1959, acc[1]: 55277
+s: 2494, empty?: false
+s: 2494, n: 2494, acc[1]: 57236
+s: , empty?: true
+s: 1023, empty?: false
+s: 1023, n: 1023, acc[1]: 0
+s: 5984, empty?: false
+s: 5984, n: 5984, acc[1]: 1023
+s: 1720, empty?: false
+s: 1720, n: 1720, acc[1]: 7007
+s: 3188, empty?: false
+s: 3188, n: 3188, acc[1]: 8727
+s: 6562, empty?: false
+s: 6562, n: 6562, acc[1]: 11915
+s: 6538, empty?: false
+s: 6538, n: 6538, acc[1]: 18477
+s: 2771, empty?: false
+s: 2771, n: 2771, acc[1]: 25015
+s: 6244, empty?: false
+s: 6244, n: 6244, acc[1]: 27786
+s: 1907, empty?: false
+s: 1907, n: 1907, acc[1]: 34030
+s: 5438, empty?: false
+s: 5438, n: 5438, acc[1]: 35937
+s: 4087, empty?: false
+s: 4087, n: 4087, acc[1]: 41375
+s: , empty?: true
+s: 1788, empty?: false
+s: 1788, n: 1788, acc[1]: 0
+s: 6484, empty?: false
+s: 6484, n: 6484, acc[1]: 1788
+s: 3614, empty?: false
+s: 3614, n: 3614, acc[1]: 8272
+s: 7220, empty?: false
+s: 7220, n: 7220, acc[1]: 11886
+s: 1555, empty?: false
+s: 1555, n: 1555, acc[1]: 19106
+s: 2074, empty?: false
+s: 2074, n: 2074, acc[1]: 20661
+s: 7860, empty?: false
+s: 7860, n: 7860, acc[1]: 22735
+s: 6665, empty?: false
+s: 6665, n: 6665, acc[1]: 30595
+s: 2814, empty?: false
+s: 2814, n: 2814, acc[1]: 37260
+s: 1285, empty?: false
+s: 1285, n: 1285, acc[1]: 40074
+s: 3140, empty?: false
+s: 3140, n: 3140, acc[1]: 41359
+s: , empty?: true
+s: 2610, empty?: false
+s: 2610, n: 2610, acc[1]: 0
+s: 4711, empty?: false
+s: 4711, n: 4711, acc[1]: 2610
+s: 1414, empty?: false
+s: 1414, n: 1414, acc[1]: 7321
+s: 2611, empty?: false
+s: 2611, n: 2611, acc[1]: 8735
+s: 1544, empty?: false
+s: 1544, n: 1544, acc[1]: 11346
+s: 7094, empty?: false
+s: 7094, n: 7094, acc[1]: 12890
+s: 5717, empty?: false
+s: 5717, n: 5717, acc[1]: 19984
+s: , empty?: true
+s: 4738, empty?: false
+s: 4738, n: 4738, acc[1]: 0
+s: 6092, empty?: false
+s: 6092, n: 6092, acc[1]: 4738
+s: 5271, empty?: false
+s: 5271, n: 5271, acc[1]: 10830
+s: 1795, empty?: false
+s: 1795, n: 1795, acc[1]: 16101
+s: 3592, empty?: false
+s: 3592, n: 3592, acc[1]: 17896
+s: 1606, empty?: false
+s: 1606, n: 1606, acc[1]: 21488
+s: 6309, empty?: false
+s: 6309, n: 6309, acc[1]: 23094
+s: 4606, empty?: false
+s: 4606, n: 4606, acc[1]: 29403
+s: 1354, empty?: false
+s: 1354, n: 1354, acc[1]: 34009
+s: 3735, empty?: false
+s: 3735, n: 3735, acc[1]: 35363
+s: 6498, empty?: false
+s: 6498, n: 6498, acc[1]: 39098
+s: 5722, empty?: false
+s: 5722, n: 5722, acc[1]: 45596
+s: 1048, empty?: false
+s: 1048, n: 1048, acc[1]: 51318
+s: , empty?: true
+s: 7759, empty?: false
+s: 7759, n: 7759, acc[1]: 0
+s: 5334, empty?: false
+s: 5334, n: 5334, acc[1]: 7759
+s: 4561, empty?: false
+s: 4561, n: 4561, acc[1]: 13093
+s: 2429, empty?: false
+s: 2429, n: 2429, acc[1]: 17654
+s: 15468, empty?: false
+s: 15468, n: 15468, acc[1]: 20083
+s: , empty?: true
+s: 3489, empty?: false
+s: 3489, n: 3489, acc[1]: 0
+s: 8962, empty?: false
+s: 8962, n: 8962, acc[1]: 3489
+s: 9009, empty?: false
+s: 9009, n: 9009, acc[1]: 12451
+s: 8949, empty?: false
+s: 8949, n: 8949, acc[1]: 21460
+s: 9558, empty?: false
+s: 9558, n: 9558, acc[1]: 30409
+s: 3251, empty?: false
+s: 3251, n: 3251, acc[1]: 39967
+s: 4945, empty?: false
+s: 4945, n: 4945, acc[1]: 43218
+s: 2435, empty?: false
+s: 2435, n: 2435, acc[1]: 48163
+s: , empty?: true
+s: 9471, empty?: false
+s: 9471, n: 9471, acc[1]: 0
+s: 19225, empty?: false
+s: 19225, n: 19225, acc[1]: 9471
+s: 5466, empty?: false
+s: 5466, n: 5466, acc[1]: 28696
+s: , empty?: true
+s: 1866, empty?: false
+s: 1866, n: 1866, acc[1]: 0
+s: 1611, empty?: false
+s: 1611, n: 1611, acc[1]: 1866
+s: 1755, empty?: false
+s: 1755, n: 1755, acc[1]: 3477
+s: 5344, empty?: false
+s: 5344, n: 5344, acc[1]: 5232
+s: 6266, empty?: false
+s: 6266, n: 6266, acc[1]: 10576
+s: 5702, empty?: false
+s: 5702, n: 5702, acc[1]: 16842
+s: 1343, empty?: false
+s: 1343, n: 1343, acc[1]: 22544
+s: 2770, empty?: false
+s: 2770, n: 2770, acc[1]: 23887
+s: 6189, empty?: false
+s: 6189, n: 6189, acc[1]: 26657
+s: 4469, empty?: false
+s: 4469, n: 4469, acc[1]: 32846
+s: 1904, empty?: false
+s: 1904, n: 1904, acc[1]: 37315
+s: 3896, empty?: false
+s: 3896, n: 3896, acc[1]: 39219
+s: 1310, empty?: false
+s: 1310, n: 1310, acc[1]: 43115
+s: 4909, empty?: false
+s: 4909, n: 4909, acc[1]: 44425
+s: , empty?: true
+s: 24923, empty?: false
+s: 24923, n: 24923, acc[1]: 0
+s: 18003, empty?: false
+s: 18003, n: 18003, acc[1]: 24923
+s: , empty?: true
+s: 14439, empty?: false
+s: 14439, n: 14439, acc[1]: 0
+s: 15042, empty?: false
+s: 15042, n: 15042, acc[1]: 14439
+s: 14350, empty?: false
+s: 14350, n: 14350, acc[1]: 29481
+s: 15488, empty?: false
+s: 15488, n: 15488, acc[1]: 43831
+s: , empty?: true
+s: 3595, empty?: false
+s: 3595, n: 3595, acc[1]: 0
+s: 1976, empty?: false
+s: 1976, n: 1976, acc[1]: 3595
+s: 1704, empty?: false
+s: 1704, n: 1704, acc[1]: 5571
+s: 4463, empty?: false
+s: 4463, n: 4463, acc[1]: 7275
+s: 5015, empty?: false
+s: 5015, n: 5015, acc[1]: 11738
+s: 1484, empty?: false
+s: 1484, n: 1484, acc[1]: 16753
+s: 3441, empty?: false
+s: 3441, n: 3441, acc[1]: 18237
+s: 6461, empty?: false
+s: 6461, n: 6461, acc[1]: 21678
+s: 3157, empty?: false
+s: 3157, n: 3157, acc[1]: 28139
+s: 7163, empty?: false
+s: 7163, n: 7163, acc[1]: 31296
+s: 1467, empty?: false
+s: 1467, n: 1467, acc[1]: 38459
+s: 6890, empty?: false
+s: 6890, n: 6890, acc[1]: 39926
+s: , empty?: true
+s: 5114, empty?: false
+s: 5114, n: 5114, acc[1]: 0
+s: 2338, empty?: false
+s: 2338, n: 2338, acc[1]: 5114
+s: 1229, empty?: false
+s: 1229, n: 1229, acc[1]: 7452
+s: 6747, empty?: false
+s: 6747, n: 6747, acc[1]: 8681
+s: 6572, empty?: false
+s: 6572, n: 6572, acc[1]: 15428
+s: 2729, empty?: false
+s: 2729, n: 2729, acc[1]: 22000
+s: 5368, empty?: false
+s: 5368, n: 5368, acc[1]: 24729
+s: 5234, empty?: false
+s: 5234, n: 5234, acc[1]: 30097
+s: 6391, empty?: false
+s: 6391, n: 6391, acc[1]: 35331
+s: 3476, empty?: false
+s: 3476, n: 3476, acc[1]: 41722
+s: 4258, empty?: false
+s: 4258, n: 4258, acc[1]: 45198
+s: , empty?: true
+s: 5163, empty?: false
+s: 5163, n: 5163, acc[1]: 0
+s: 4280, empty?: false
+s: 4280, n: 4280, acc[1]: 5163
+s: 4165, empty?: false
+s: 4165, n: 4165, acc[1]: 9443
+s: 1931, empty?: false
+s: 1931, n: 1931, acc[1]: 13608
+s: 2772, empty?: false
+s: 2772, n: 2772, acc[1]: 15539
+s: 3169, empty?: false
+s: 3169, n: 3169, acc[1]: 18311
+s: 1887, empty?: false
+s: 1887, n: 1887, acc[1]: 21480
+s: 4250, empty?: false
+s: 4250, n: 4250, acc[1]: 23367
+s: 5460, empty?: false
+s: 5460, n: 5460, acc[1]: 27617
+s: 5836, empty?: false
+s: 5836, n: 5836, acc[1]: 33077
+s: 2477, empty?: false
+s: 2477, n: 2477, acc[1]: 38913
+s: 2074, empty?: false
+s: 2074, n: 2074, acc[1]: 41390
+s: 4638, empty?: false
+s: 4638, n: 4638, acc[1]: 43464
+s: 4139, empty?: false
+s: 4139, n: 4139, acc[1]: 48102
+s: 3204, empty?: false
+s: 3204, n: 3204, acc[1]: 52241
+s: , empty?: true
+s: 19251, empty?: false
+s: 19251, n: 19251, acc[1]: 0
+s: 1614, empty?: false
+s: 1614, n: 1614, acc[1]: 19251
+s: 11101, empty?: false
+s: 11101, n: 11101, acc[1]: 20865
+s: 4036, empty?: false
+s: 4036, n: 4036, acc[1]: 31966
+s: , empty?: true
+s: 3734, empty?: false
+s: 3734, n: 3734, acc[1]: 0
+s: 1477, empty?: false
+s: 1477, n: 1477, acc[1]: 3734
+s: 13557, empty?: false
+s: 13557, n: 13557, acc[1]: 5211
+s: 11678, empty?: false
+s: 11678, n: 11678, acc[1]: 18768
+s: 9239, empty?: false
+s: 9239, n: 9239, acc[1]: 30446
+s: 3743, empty?: false
+s: 3743, n: 3743, acc[1]: 39685
+s: , empty?: true
+s: 3439, empty?: false
+s: 3439, n: 3439, acc[1]: 0
+s: 3959, empty?: false
+s: 3959, n: 3959, acc[1]: 3439
+s: 7006, empty?: false
+s: 7006, n: 7006, acc[1]: 7398
+s: 6420, empty?: false
+s: 6420, n: 6420, acc[1]: 14404
+s: 7061, empty?: false
+s: 7061, n: 7061, acc[1]: 20824
+s: 1813, empty?: false
+s: 1813, n: 1813, acc[1]: 27885
+s: 4983, empty?: false
+s: 4983, n: 4983, acc[1]: 29698
+s: 9419, empty?: false
+s: 9419, n: 9419, acc[1]: 34681
+s: 3415, empty?: false
+s: 3415, n: 3415, acc[1]: 44100
+s: , empty?: true
+s: 4075, empty?: false
+s: 4075, n: 4075, acc[1]: 0
+s: 8560, empty?: false
+s: 8560, n: 8560, acc[1]: 4075
+s: 11281, empty?: false
+s: 11281, n: 11281, acc[1]: 12635
+s: 5341, empty?: false
+s: 5341, n: 5341, acc[1]: 23916
+s: , empty?: true
+s: 9383, empty?: false
+s: 9383, n: 9383, acc[1]: 0
+s: 14432, empty?: false
+s: 14432, n: 14432, acc[1]: 9383
+s: 8873, empty?: false
+s: 8873, n: 8873, acc[1]: 23815
+s: 8749, empty?: false
+s: 8749, n: 8749, acc[1]: 32688
+s: , empty?: true
+s: 4262, empty?: false
+s: 4262, n: 4262, acc[1]: 0
+s: 1078, empty?: false
+s: 1078, n: 1078, acc[1]: 4262
+s: 4405, empty?: false
+s: 4405, n: 4405, acc[1]: 5340
+s: 5033, empty?: false
+s: 5033, n: 5033, acc[1]: 9745
+s: 4781, empty?: false
+s: 4781, n: 4781, acc[1]: 14778
+s: 5649, empty?: false
+s: 5649, n: 5649, acc[1]: 19559
+s: 3659, empty?: false
+s: 3659, n: 3659, acc[1]: 25208
+s: 3554, empty?: false
+s: 3554, n: 3554, acc[1]: 28867
+s: 4879, empty?: false
+s: 4879, n: 4879, acc[1]: 32421
+s: 5744, empty?: false
+s: 5744, n: 5744, acc[1]: 37300
+s: 6101, empty?: false
+s: 6101, n: 6101, acc[1]: 43044
+s: 2207, empty?: false
+s: 2207, n: 2207, acc[1]: 49145
+s: 4144, empty?: false
+s: 4144, n: 4144, acc[1]: 51352
+s: 3892, empty?: false
+s: 3892, n: 3892, acc[1]: 55496
+s: , empty?: true
+s: 7208, empty?: false
+s: 7208, n: 7208, acc[1]: 0
+s: 11645, empty?: false
+s: 11645, n: 11645, acc[1]: 7208
+s: 25286, empty?: false
+s: 25286, n: 25286, acc[1]: 18853
+s: , empty?: true
+s: 4647, empty?: false
+s: 4647, n: 4647, acc[1]: 0
+s: 2767, empty?: false
+s: 2767, n: 2767, acc[1]: 4647
+s: 4968, empty?: false
+s: 4968, n: 4968, acc[1]: 7414
+s: 9196, empty?: false
+s: 9196, n: 9196, acc[1]: 12382
+s: 6695, empty?: false
+s: 6695, n: 6695, acc[1]: 21578
+s: 1732, empty?: false
+s: 1732, n: 1732, acc[1]: 28273
+s: 5918, empty?: false
+s: 5918, n: 5918, acc[1]: 30005
+s: 5934, empty?: false
+s: 5934, n: 5934, acc[1]: 35923
+s: , empty?: true
+s: 7804, empty?: false
+s: 7804, n: 7804, acc[1]: 0
+s: 1097, empty?: false
+s: 1097, n: 1097, acc[1]: 7804
+s: 8520, empty?: false
+s: 8520, n: 8520, acc[1]: 8901
+s: 4513, empty?: false
+s: 4513, n: 4513, acc[1]: 17421
+s: 8217, empty?: false
+s: 8217, n: 8217, acc[1]: 21934
+s: 10678, empty?: false
+s: 10678, n: 10678, acc[1]: 30151
+s: 1977, empty?: false
+s: 1977, n: 1977, acc[1]: 40829
+s: 3678, empty?: false
+s: 3678, n: 3678, acc[1]: 42806
+s: , empty?: true
+s: 11457, empty?: false
+s: 11457, n: 11457, acc[1]: 0
+s: 11769, empty?: false
+s: 11769, n: 11769, acc[1]: 11457
+s: 12118, empty?: false
+s: 12118, n: 12118, acc[1]: 23226
+s: 8118, empty?: false
+s: 8118, n: 8118, acc[1]: 35344
+s: 8778, empty?: false
+s: 8778, n: 8778, acc[1]: 43462
+s: 7656, empty?: false
+s: 7656, n: 7656, acc[1]: 52240
+s: 7419, empty?: false
+s: 7419, n: 7419, acc[1]: 59896
+s: , empty?: true
+None: [62135, 67315]
+s: 6814, empty?: false
+s: 6814, n: 6814, acc[1]: 0
+s: 5716, empty?: false
+s: 5716, n: 5716, acc[1]: 6814
+s: 2112, empty?: false
+s: 2112, n: 2112, acc[1]: 12530
+s: 4511, empty?: false
+s: 4511, n: 4511, acc[1]: 14642
+s: 4826, empty?: false
+s: 4826, n: 4826, acc[1]: 19153
+s: 1274, empty?: false
+s: 1274, n: 1274, acc[1]: 23979
+s: 8088, empty?: false
+s: 8088, n: 8088, acc[1]: 25253
+s: 6427, empty?: false
+s: 6427, n: 6427, acc[1]: 33341
+s: 1906, empty?: false
+s: 1906, n: 1906, acc[1]: 39768
+s: 8193, empty?: false
+s: 8193, n: 8193, acc[1]: 41674
+s: , empty?: true
+s: 6796, empty?: false
+s: 6796, n: 6796, acc[1]: 0
+s: 1284, empty?: false
+s: 1284, n: 1284, acc[1]: 6796
+s: 4977, empty?: false
+s: 4977, n: 4977, acc[1]: 8080
+s: 5446, empty?: false
+s: 5446, n: 5446, acc[1]: 13057
+s: 3087, empty?: false
+s: 3087, n: 3087, acc[1]: 18503
+s: 6057, empty?: false
+s: 6057, n: 6057, acc[1]: 21590
+s: 5189, empty?: false
+s: 5189, n: 5189, acc[1]: 27647
+s: 5946, empty?: false
+s: 5946, n: 5946, acc[1]: 32836
+s: 3621, empty?: false
+s: 3621, n: 3621, acc[1]: 38782
+s: 1966, empty?: false
+s: 1966, n: 1966, acc[1]: 42403
+s: 2078, empty?: false
+s: 2078, n: 2078, acc[1]: 44369
+s: 1367, empty?: false
+s: 1367, n: 1367, acc[1]: 46447
+s: , empty?: true
+s: 1423, empty?: false
+s: 1423, n: 1423, acc[1]: 0
+s: 1634, empty?: false
+s: 1634, n: 1634, acc[1]: 1423
+s: 5851, empty?: false
+s: 5851, n: 5851, acc[1]: 3057
+s: 5565, empty?: false
+s: 5565, n: 5565, acc[1]: 8908
+s: 2436, empty?: false
+s: 2436, n: 2436, acc[1]: 14473
+s: 5611, empty?: false
+s: 5611, n: 5611, acc[1]: 16909
+s: 7167, empty?: false
+s: 7167, n: 7167, acc[1]: 22520
+s: 6055, empty?: false
+s: 6055, n: 6055, acc[1]: 29687
+s: 4745, empty?: false
+s: 4745, n: 4745, acc[1]: 35742
+s: 3762, empty?: false
+s: 3762, n: 3762, acc[1]: 40487
+s: 4920, empty?: false
+s: 4920, n: 4920, acc[1]: 44249
+s: 7141, empty?: false
+s: 7141, n: 7141, acc[1]: 49169
+s: , empty?: true
+s: 4514, empty?: false
+s: 4514, n: 4514, acc[1]: 0
+s: 18029, empty?: false
+s: 18029, n: 18029, acc[1]: 4514
+s: , empty?: true
+s: 2173, empty?: false
+s: 2173, n: 2173, acc[1]: 0
+s: 7851, empty?: false
+s: 7851, n: 7851, acc[1]: 2173
+s: 13687, empty?: false
+s: 13687, n: 13687, acc[1]: 10024
+s: , empty?: true
+s: 7949, empty?: false
+s: 7949, n: 7949, acc[1]: 0
+s: 7418, empty?: false
+s: 7418, n: 7418, acc[1]: 7949
+s: 7395, empty?: false
+s: 7395, n: 7395, acc[1]: 15367
+s: 7837, empty?: false
+s: 7837, n: 7837, acc[1]: 22762
+s: 11702, empty?: false
+s: 11702, n: 11702, acc[1]: 30599
+s: 3934, empty?: false
+s: 3934, n: 3934, acc[1]: 42301
+s: 7268, empty?: false
+s: 7268, n: 7268, acc[1]: 46235
+s: , empty?: true
+s: 4418, empty?: false
+s: 4418, n: 4418, acc[1]: 0
+s: 6659, empty?: false
+s: 6659, n: 6659, acc[1]: 4418
+s: 1116, empty?: false
+s: 1116, n: 1116, acc[1]: 11077
+s: 2260, empty?: false
+s: 2260, n: 2260, acc[1]: 12193
+s: 2673, empty?: false
+s: 2673, n: 2673, acc[1]: 14453
+s: 3066, empty?: false
+s: 3066, n: 3066, acc[1]: 17126
+s: 6605, empty?: false
+s: 6605, n: 6605, acc[1]: 20192
+s: 2151, empty?: false
+s: 2151, n: 2151, acc[1]: 26797
+s: 6445, empty?: false
+s: 6445, n: 6445, acc[1]: 28948
+s: 4091, empty?: false
+s: 4091, n: 4091, acc[1]: 35393
+s: 5630, empty?: false
+s: 5630, n: 5630, acc[1]: 39484
+s: 6108, empty?: false
+s: 6108, n: 6108, acc[1]: 45114
+s: 2065, empty?: false
+s: 2065, n: 2065, acc[1]: 51222
+s: , empty?: true
+s: 34083, empty?: false
+s: 34083, n: 34083, acc[1]: 0
+s: , empty?: true
+s: 20266, empty?: false
+s: 20266, n: 20266, acc[1]: 0
+s: 26662, empty?: false
+s: 26662, n: 26662, acc[1]: 20266
+s: , empty?: true
+s: 1107, empty?: false
+s: 1107, n: 1107, acc[1]: 0
+s: 3659, empty?: false
+s: 3659, n: 3659, acc[1]: 1107
+s: 5578, empty?: false
+s: 5578, n: 5578, acc[1]: 4766
+s: 3698, empty?: false
+s: 3698, n: 3698, acc[1]: 10344
+s: 6529, empty?: false
+s: 6529, n: 6529, acc[1]: 14042
+s: 1530, empty?: false
+s: 1530, n: 1530, acc[1]: 20571
+s: 5096, empty?: false
+s: 5096, n: 5096, acc[1]: 22101
+s: 6756, empty?: false
+s: 6756, n: 6756, acc[1]: 27197
+s: 4420, empty?: false
+s: 4420, n: 4420, acc[1]: 33953
+s: 5647, empty?: false
+s: 5647, n: 5647, acc[1]: 38373
+s: 6321, empty?: false
+s: 6321, n: 6321, acc[1]: 44020
+s: 5952, empty?: false
+s: 5952, n: 5952, acc[1]: 50341
+s: , empty?: true
+s: 8199, empty?: false
+s: 8199, n: 8199, acc[1]: 0
+s: 4504, empty?: false
+s: 4504, n: 4504, acc[1]: 8199
+s: 6056, empty?: false
+s: 6056, n: 6056, acc[1]: 12703
+s: 9281, empty?: false
+s: 9281, n: 9281, acc[1]: 18759
+s: 4129, empty?: false
+s: 4129, n: 4129, acc[1]: 28040
+s: 4489, empty?: false
+s: 4489, n: 4489, acc[1]: 32169
+s: 1301, empty?: false
+s: 1301, n: 1301, acc[1]: 36658
+s: 5419, empty?: false
+s: 5419, n: 5419, acc[1]: 37959
+s: 7976, empty?: false
+s: 7976, n: 7976, acc[1]: 43378
+s: , empty?: true
+s: 2418, empty?: false
+s: 2418, n: 2418, acc[1]: 0
+s: 4557, empty?: false
+s: 4557, n: 4557, acc[1]: 2418
+s: 4607, empty?: false
+s: 4607, n: 4607, acc[1]: 6975
+s: 5361, empty?: false
+s: 5361, n: 5361, acc[1]: 11582
+s: 3364, empty?: false
+s: 3364, n: 3364, acc[1]: 16943
+s: 2998, empty?: false
+s: 2998, n: 2998, acc[1]: 20307
+s: 1216, empty?: false
+s: 1216, n: 1216, acc[1]: 23305
+s: 5563, empty?: false
+s: 5563, n: 5563, acc[1]: 24521
+s: 4864, empty?: false
+s: 4864, n: 4864, acc[1]: 30084
+s: 5017, empty?: false
+s: 5017, n: 5017, acc[1]: 34948
+s: 4026, empty?: false
+s: 4026, n: 4026, acc[1]: 39965
+s: 3729, empty?: false
+s: 3729, n: 3729, acc[1]: 43991
+s: 4164, empty?: false
+s: 4164, n: 4164, acc[1]: 47720
+s: 5482, empty?: false
+s: 5482, n: 5482, acc[1]: 51884
+s: 1893, empty?: false
+s: 1893, n: 1893, acc[1]: 57366
+s: , empty?: true
+s: 10335, empty?: false
+s: 10335, n: 10335, acc[1]: 0
+s: , empty?: true
+s: 3749, empty?: false
+s: 3749, n: 3749, acc[1]: 0
+s: 29027, empty?: false
+s: 29027, n: 29027, acc[1]: 3749
+s: , empty?: true
+s: 12334, empty?: false
+s: 12334, n: 12334, acc[1]: 0
+s: 15815, empty?: false
+s: 15815, n: 15815, acc[1]: 12334
+s: 14747, empty?: false
+s: 14747, n: 14747, acc[1]: 28149
+s: 8990, empty?: false
+s: 8990, n: 8990, acc[1]: 42896
+s: 12054, empty?: false
+s: 12054, n: 12054, acc[1]: 51886
+s: , empty?: true
+s: 39307, empty?: false
+s: 39307, n: 39307, acc[1]: 0
+s: , empty?: true
+s: 9347, empty?: false
+s: 9347, n: 9347, acc[1]: 0
+s: , empty?: true
+s: 1924, empty?: false
+s: 1924, n: 1924, acc[1]: 0
+s: 9058, empty?: false
+s: 9058, n: 9058, acc[1]: 1924
+s: 14219, empty?: false
+s: 14219, n: 14219, acc[1]: 10982
+s: , empty?: true
+s: 4200, empty?: false
+s: 4200, n: 4200, acc[1]: 0
+s: 4950, empty?: false
+s: 4950, n: 4950, acc[1]: 4200
+s: 6751, empty?: false
+s: 6751, n: 6751, acc[1]: 9150
+s: 2879, empty?: false
+s: 2879, n: 2879, acc[1]: 15901
+s: 4412, empty?: false
+s: 4412, n: 4412, acc[1]: 18780
+s: 6649, empty?: false
+s: 6649, n: 6649, acc[1]: 23192
+s: 1453, empty?: false
+s: 1453, n: 1453, acc[1]: 29841
+s: 1175, empty?: false
+s: 1175, n: 1175, acc[1]: 31294
+s: 3380, empty?: false
+s: 3380, n: 3380, acc[1]: 32469
+s: 6612, empty?: false
+s: 6612, n: 6612, acc[1]: 35849
+s: 3828, empty?: false
+s: 3828, n: 3828, acc[1]: 42461
+s: 2224, empty?: false
+s: 2224, n: 2224, acc[1]: 46289
+s: 4101, empty?: false
+s: 4101, n: 4101, acc[1]: 48513
+s: , empty?: true
+s: 5166, empty?: false
+s: 5166, n: 5166, acc[1]: 0
+s: 2143, empty?: false
+s: 2143, n: 2143, acc[1]: 5166
+s: 7193, empty?: false
+s: 7193, n: 7193, acc[1]: 7309
+s: 1109, empty?: false
+s: 1109, n: 1109, acc[1]: 14502
+s: 5859, empty?: false
+s: 5859, n: 5859, acc[1]: 15611
+s: 3587, empty?: false
+s: 3587, n: 3587, acc[1]: 21470
+s: 7319, empty?: false
+s: 7319, n: 7319, acc[1]: 25057
+s: 3578, empty?: false
+s: 3578, n: 3578, acc[1]: 32376
+s: 6272, empty?: false
+s: 6272, n: 6272, acc[1]: 35954
+s: 4546, empty?: false
+s: 4546, n: 4546, acc[1]: 42226
+s: 4928, empty?: false
+s: 4928, n: 4928, acc[1]: 46772
+s: 4686, empty?: false
+s: 4686, n: 4686, acc[1]: 51700
+s: , empty?: true
+s: 6162, empty?: false
+s: 6162, n: 6162, acc[1]: 0
+s: 28361, empty?: false
+s: 28361, n: 28361, acc[1]: 6162
+s: , empty?: true
+s: 4756, empty?: false
+s: 4756, n: 4756, acc[1]: 0
+s: 6015, empty?: false
+s: 6015, n: 6015, acc[1]: 4756
+s: 4766, empty?: false
+s: 4766, n: 4766, acc[1]: 10771
+s: 5722, empty?: false
+s: 5722, n: 5722, acc[1]: 15537
+s: 4379, empty?: false
+s: 4379, n: 4379, acc[1]: 21259
+s: 3490, empty?: false
+s: 3490, n: 3490, acc[1]: 25638
+s: 5431, empty?: false
+s: 5431, n: 5431, acc[1]: 29128
+s: 1526, empty?: false
+s: 1526, n: 1526, acc[1]: 34559
+s: 1948, empty?: false
+s: 1948, n: 1948, acc[1]: 36085
+s: 5237, empty?: false
+s: 5237, n: 5237, acc[1]: 38033
+s: 5531, empty?: false
+s: 5531, n: 5531, acc[1]: 43270
+s: 5395, empty?: false
+s: 5395, n: 5395, acc[1]: 48801
+s: 4601, empty?: false
+s: 4601, n: 4601, acc[1]: 54196
+s: 5844, empty?: false
+s: 5844, n: 5844, acc[1]: 58797
+s: 4016, empty?: false
+s: 4016, n: 4016, acc[1]: 64641
+s: , empty?: true
+None: [67315, 68657]
+s: 27000, empty?: false
+s: 27000, n: 27000, acc[1]: 0
+s: 15558, empty?: false
+s: 15558, n: 15558, acc[1]: 27000
+s: , empty?: true
+s: 7099, empty?: false
+s: 7099, n: 7099, acc[1]: 0
+s: 16480, empty?: false
+s: 16480, n: 16480, acc[1]: 7099
+s: 6533, empty?: false
+s: 6533, n: 6533, acc[1]: 23579
+s: 18750, empty?: false
+s: 18750, n: 18750, acc[1]: 30112
+s: , empty?: true
+s: 11523, empty?: false
+s: 11523, n: 11523, acc[1]: 0
+s: 21417, empty?: false
+s: 21417, n: 21417, acc[1]: 11523
+s: , empty?: true
+s: 5633, empty?: false
+s: 5633, n: 5633, acc[1]: 0
+s: 4294, empty?: false
+s: 4294, n: 4294, acc[1]: 5633
+s: 2149, empty?: false
+s: 2149, n: 2149, acc[1]: 9927
+s: 5611, empty?: false
+s: 5611, n: 5611, acc[1]: 12076
+s: 2006, empty?: false
+s: 2006, n: 2006, acc[1]: 17687
+s: 3871, empty?: false
+s: 3871, n: 3871, acc[1]: 19693
+s: 3215, empty?: false
+s: 3215, n: 3215, acc[1]: 23564
+s: 6970, empty?: false
+s: 6970, n: 6970, acc[1]: 26779
+s: 3457, empty?: false
+s: 3457, n: 3457, acc[1]: 33749
+s: 1546, empty?: false
+s: 1546, n: 1546, acc[1]: 37206
+s: 6646, empty?: false
+s: 6646, n: 6646, acc[1]: 38752
+s: 3536, empty?: false
+s: 3536, n: 3536, acc[1]: 45398
+s: , empty?: true
+s: 2994, empty?: false
+s: 2994, n: 2994, acc[1]: 0
+s: 4450, empty?: false
+s: 4450, n: 4450, acc[1]: 2994
+s: 3218, empty?: false
+s: 3218, n: 3218, acc[1]: 7444
+s: 5868, empty?: false
+s: 5868, n: 5868, acc[1]: 10662
+s: 5097, empty?: false
+s: 5097, n: 5097, acc[1]: 16530
+s: 3030, empty?: false
+s: 3030, n: 3030, acc[1]: 21627
+s: 5412, empty?: false
+s: 5412, n: 5412, acc[1]: 24657
+s: 1989, empty?: false
+s: 1989, n: 1989, acc[1]: 30069
+s: 6882, empty?: false
+s: 6882, n: 6882, acc[1]: 32058
+s: 5868, empty?: false
+s: 5868, n: 5868, acc[1]: 38940
+s: 5471, empty?: false
+s: 5471, n: 5471, acc[1]: 44808
+s: 5722, empty?: false
+s: 5722, n: 5722, acc[1]: 50279
+s: 5620, empty?: false
+s: 5620, n: 5620, acc[1]: 56001
+s: , empty?: true
+s: 4077, empty?: false
+s: 4077, n: 4077, acc[1]: 0
+s: 7320, empty?: false
+s: 7320, n: 7320, acc[1]: 4077
+s: 6705, empty?: false
+s: 6705, n: 6705, acc[1]: 11397
+s: 1180, empty?: false
+s: 1180, n: 1180, acc[1]: 18102
+s: 2240, empty?: false
+s: 2240, n: 2240, acc[1]: 19282
+s: 7895, empty?: false
+s: 7895, n: 7895, acc[1]: 21522
+s: 6841, empty?: false
+s: 6841, n: 6841, acc[1]: 29417
+s: 1830, empty?: false
+s: 1830, n: 1830, acc[1]: 36258
+s: 3428, empty?: false
+s: 3428, n: 3428, acc[1]: 38088
+s: 2364, empty?: false
+s: 2364, n: 2364, acc[1]: 41516
+s: 4641, empty?: false
+s: 4641, n: 4641, acc[1]: 43880
+s: , empty?: true
+s: 2115, empty?: false
+s: 2115, n: 2115, acc[1]: 0
+s: 5373, empty?: false
+s: 5373, n: 5373, acc[1]: 2115
+s: 4997, empty?: false
+s: 4997, n: 4997, acc[1]: 7488
+s: 5593, empty?: false
+s: 5593, n: 5593, acc[1]: 12485
+s: 1120, empty?: false
+s: 1120, n: 1120, acc[1]: 18078
+s: 1603, empty?: false
+s: 1603, n: 1603, acc[1]: 19198
+s: 5843, empty?: false
+s: 5843, n: 5843, acc[1]: 20801
+s: 6059, empty?: false
+s: 6059, n: 6059, acc[1]: 26644
+s: 4762, empty?: false
+s: 4762, n: 4762, acc[1]: 32703
+s: 3509, empty?: false
+s: 3509, n: 3509, acc[1]: 37465
+s: 3427, empty?: false
+s: 3427, n: 3427, acc[1]: 40974
+s: 3718, empty?: false
+s: 3718, n: 3718, acc[1]: 44401
+s: 3790, empty?: false
+s: 3790, n: 3790, acc[1]: 48119
+s: 5281, empty?: false
+s: 5281, n: 5281, acc[1]: 51909
+s: , empty?: true
+s: 3830, empty?: false
+s: 3830, n: 3830, acc[1]: 0
+s: 1503, empty?: false
+s: 1503, n: 1503, acc[1]: 3830
+s: 3585, empty?: false
+s: 3585, n: 3585, acc[1]: 5333
+s: 2638, empty?: false
+s: 2638, n: 2638, acc[1]: 8918
+s: 2645, empty?: false
+s: 2645, n: 2645, acc[1]: 11556
+s: 1007, empty?: false
+s: 1007, n: 1007, acc[1]: 14201
+s: 4034, empty?: false
+s: 4034, n: 4034, acc[1]: 15208
+s: 5357, empty?: false
+s: 5357, n: 5357, acc[1]: 19242
+s: 3322, empty?: false
+s: 3322, n: 3322, acc[1]: 24599
+s: 2172, empty?: false
+s: 2172, n: 2172, acc[1]: 27921
+s: 6370, empty?: false
+s: 6370, n: 6370, acc[1]: 30093
+s: 5275, empty?: false
+s: 5275, n: 5275, acc[1]: 36463
+s: 1648, empty?: false
+s: 1648, n: 1648, acc[1]: 41738
+s: 3700, empty?: false
+s: 3700, n: 3700, acc[1]: 43386
+s: , empty?: true
+s: 6642, empty?: false
+s: 6642, n: 6642, acc[1]: 0
+s: 5243, empty?: false
+s: 5243, n: 5243, acc[1]: 6642
+s: 13395, empty?: false
+s: 13395, n: 13395, acc[1]: 11885
+s: 2913, empty?: false
+s: 2913, n: 2913, acc[1]: 25280
+s: 12697, empty?: false
+s: 12697, n: 12697, acc[1]: 28193
+s: , empty?: true
+s: 10054, empty?: false
+s: 10054, n: 10054, acc[1]: 0
+s: 5070, empty?: false
+s: 5070, n: 5070, acc[1]: 10054
+s: 16403, empty?: false
+s: 16403, n: 16403, acc[1]: 15124
+s: 5567, empty?: false
+s: 5567, n: 5567, acc[1]: 31527
+s: 16260, empty?: false
+s: 16260, n: 16260, acc[1]: 37094
+s: , empty?: true
+s: 25612, empty?: false
+s: 25612, n: 25612, acc[1]: 0
+s: 12129, empty?: false
+s: 12129, n: 12129, acc[1]: 25612
+s: 5607, empty?: false
+s: 5607, n: 5607, acc[1]: 37741
+s: , empty?: true
+s: 4096, empty?: false
+s: 4096, n: 4096, acc[1]: 0
+s: 2849, empty?: false
+s: 2849, n: 2849, acc[1]: 4096
+s: 6717, empty?: false
+s: 6717, n: 6717, acc[1]: 6945
+s: 6832, empty?: false
+s: 6832, n: 6832, acc[1]: 13662
+s: 8067, empty?: false
+s: 8067, n: 8067, acc[1]: 20494
+s: 7566, empty?: false
+s: 7566, n: 7566, acc[1]: 28561
+s: 5627, empty?: false
+s: 5627, n: 5627, acc[1]: 36127
+s: 1761, empty?: false
+s: 1761, n: 1761, acc[1]: 41754
+s: 3414, empty?: false
+s: 3414, n: 3414, acc[1]: 43515
+s: 3261, empty?: false
+s: 3261, n: 3261, acc[1]: 46929
+s: , empty?: true
+s: 8681, empty?: false
+s: 8681, n: 8681, acc[1]: 0
+s: 2629, empty?: false
+s: 2629, n: 2629, acc[1]: 8681
+s: 4786, empty?: false
+s: 4786, n: 4786, acc[1]: 11310
+s: 7807, empty?: false
+s: 7807, n: 7807, acc[1]: 16096
+s: 8511, empty?: false
+s: 8511, n: 8511, acc[1]: 23903
+s: 2419, empty?: false
+s: 2419, n: 2419, acc[1]: 32414
+s: 2637, empty?: false
+s: 2637, n: 2637, acc[1]: 34833
+s: 6374, empty?: false
+s: 6374, n: 6374, acc[1]: 37470
+s: 7707, empty?: false
+s: 7707, n: 7707, acc[1]: 43844
+s: 1199, empty?: false
+s: 1199, n: 1199, acc[1]: 51551
+s: , empty?: true
+s: 1335, empty?: false
+s: 1335, n: 1335, acc[1]: 0
+s: 6134, empty?: false
+s: 6134, n: 6134, acc[1]: 1335
+s: 4672, empty?: false
+s: 4672, n: 4672, acc[1]: 7469
+s: 5644, empty?: false
+s: 5644, n: 5644, acc[1]: 12141
+s: 5746, empty?: false
+s: 5746, n: 5746, acc[1]: 17785
+s: 8095, empty?: false
+s: 8095, n: 8095, acc[1]: 23531
+s: 3526, empty?: false
+s: 3526, n: 3526, acc[1]: 31626
+s: 3243, empty?: false
+s: 3243, n: 3243, acc[1]: 35152
+s: , empty?: true
+s: 2802, empty?: false
+s: 2802, n: 2802, acc[1]: 0
+s: 1970, empty?: false
+s: 1970, n: 1970, acc[1]: 2802
+s: 8067, empty?: false
+s: 8067, n: 8067, acc[1]: 4772
+s: 3467, empty?: false
+s: 3467, n: 3467, acc[1]: 12839
+s: 3186, empty?: false
+s: 3186, n: 3186, acc[1]: 16306
+s: 4981, empty?: false
+s: 4981, n: 4981, acc[1]: 19492
+s: 2459, empty?: false
+s: 2459, n: 2459, acc[1]: 24473
+s: 8414, empty?: false
+s: 8414, n: 8414, acc[1]: 26932
+s: 5350, empty?: false
+s: 5350, n: 5350, acc[1]: 35346
+s: 2343, empty?: false
+s: 2343, n: 2343, acc[1]: 40696
+s: , empty?: true
+s: 4051, empty?: false
+s: 4051, n: 4051, acc[1]: 0
+s: 4180, empty?: false
+s: 4180, n: 4180, acc[1]: 4051
+s: 6227, empty?: false
+s: 6227, n: 6227, acc[1]: 8231
+s: 1401, empty?: false
+s: 1401, n: 1401, acc[1]: 14458
+s: 6469, empty?: false
+s: 6469, n: 6469, acc[1]: 15859
+s: 3463, empty?: false
+s: 3463, n: 3463, acc[1]: 22328
+s: 7297, empty?: false
+s: 7297, n: 7297, acc[1]: 25791
+s: 2570, empty?: false
+s: 2570, n: 2570, acc[1]: 33088
+s: 6420, empty?: false
+s: 6420, n: 6420, acc[1]: 35658
+s: 4883, empty?: false
+s: 4883, n: 4883, acc[1]: 42078
+s: 5563, empty?: false
+s: 5563, n: 5563, acc[1]: 46961
+s: 2934, empty?: false
+s: 2934, n: 2934, acc[1]: 52524
+s: , empty?: true
+s: 1785, empty?: false
+s: 1785, n: 1785, acc[1]: 0
+s: 4270, empty?: false
+s: 4270, n: 4270, acc[1]: 1785
+s: 3186, empty?: false
+s: 3186, n: 3186, acc[1]: 6055
+s: 4012, empty?: false
+s: 4012, n: 4012, acc[1]: 9241
+s: 8204, empty?: false
+s: 8204, n: 8204, acc[1]: 13253
+s: 4087, empty?: false
+s: 4087, n: 4087, acc[1]: 21457
+s: 7291, empty?: false
+s: 7291, n: 7291, acc[1]: 25544
+s: 6408, empty?: false
+s: 6408, n: 6408, acc[1]: 32835
+s: 8390, empty?: false
+s: 8390, n: 8390, acc[1]: 39243
+s: , empty?: true
+s: 3351, empty?: false
+s: 3351, n: 3351, acc[1]: 0
+s: 4368, empty?: false
+s: 4368, n: 4368, acc[1]: 3351
+s: 2956, empty?: false
+s: 2956, n: 2956, acc[1]: 7719
+s: 5319, empty?: false
+s: 5319, n: 5319, acc[1]: 10675
+s: 1735, empty?: false
+s: 1735, n: 1735, acc[1]: 15994
+s: 1665, empty?: false
+s: 1665, n: 1665, acc[1]: 17729
+s: 2544, empty?: false
+s: 2544, n: 2544, acc[1]: 19394
+s: 5050, empty?: false
+s: 5050, n: 5050, acc[1]: 21938
+s: 4567, empty?: false
+s: 4567, n: 4567, acc[1]: 26988
+s: 4129, empty?: false
+s: 4129, n: 4129, acc[1]: 31555
+s: 3288, empty?: false
+s: 3288, n: 3288, acc[1]: 35684
+s: 3057, empty?: false
+s: 3057, n: 3057, acc[1]: 38972
+s: 4358, empty?: false
+s: 4358, n: 4358, acc[1]: 42029
+s: 1061, empty?: false
+s: 1061, n: 1061, acc[1]: 46387
+s: 4567, empty?: false
+s: 4567, n: 4567, acc[1]: 47448
+s: , empty?: true
+s: 5567, empty?: false
+s: 5567, n: 5567, acc[1]: 0
+s: 4350, empty?: false
+s: 4350, n: 4350, acc[1]: 5567
+s: 3055, empty?: false
+s: 3055, n: 3055, acc[1]: 9917
+s: 1681, empty?: false
+s: 1681, n: 1681, acc[1]: 12972
+s: 4082, empty?: false
+s: 4082, n: 4082, acc[1]: 14653
+s: 1849, empty?: false
+s: 1849, n: 1849, acc[1]: 18735
+s: 5689, empty?: false
+s: 5689, n: 5689, acc[1]: 20584
+s: 1995, empty?: false
+s: 1995, n: 1995, acc[1]: 26273
+s: 5573, empty?: false
+s: 5573, n: 5573, acc[1]: 28268
+s: 3214, empty?: false
+s: 3214, n: 3214, acc[1]: 33841
+s: 1693, empty?: false
+s: 1693, n: 1693, acc[1]: 37055
+s: 3678, empty?: false
+s: 3678, n: 3678, acc[1]: 38748
+s: 4958, empty?: false
+s: 4958, n: 4958, acc[1]: 42426
+s: 2775, empty?: false
+s: 2775, n: 2775, acc[1]: 47384
+s: 1385, empty?: false
+s: 1385, n: 1385, acc[1]: 50159
+s: , empty?: true
+s: 15216, empty?: false
+s: 15216, n: 15216, acc[1]: 0
+s: 5215, empty?: false
+s: 5215, n: 5215, acc[1]: 15216
+s: 11727, empty?: false
+s: 11727, n: 11727, acc[1]: 20431
+s: , empty?: true
+s: 12555, empty?: false
+s: 12555, n: 12555, acc[1]: 0
+s: 12648, empty?: false
+s: 12648, n: 12648, acc[1]: 12555
+s: 8124, empty?: false
+s: 8124, n: 8124, acc[1]: 25203
+s: 5154, empty?: false
+s: 5154, n: 5154, acc[1]: 33327
+s: 7667, empty?: false
+s: 7667, n: 7667, acc[1]: 38481
+s: , empty?: true
+s: 10520, empty?: false
+s: 10520, n: 10520, acc[1]: 0
+s: 6081, empty?: false
+s: 6081, n: 6081, acc[1]: 10520
+s: 16400, empty?: false
+s: 16400, n: 16400, acc[1]: 16601
+s: 3448, empty?: false
+s: 3448, n: 3448, acc[1]: 33001
+s: 6408, empty?: false
+s: 6408, n: 6408, acc[1]: 36449
+s: , empty?: true
+s: 68455, empty?: false
+s: 68455, n: 68455, acc[1]: 0
+s: , empty?: true
+s: 26218, empty?: false
+s: 26218, n: 26218, acc[1]: 0
+s: , empty?: true
+s: 11917, empty?: false
+s: 11917, n: 11917, acc[1]: 0
+s: 4452, empty?: false
+s: 4452, n: 4452, acc[1]: 11917
+s: 14142, empty?: false
+s: 14142, n: 14142, acc[1]: 16369
+s: 8815, empty?: false
+s: 8815, n: 8815, acc[1]: 30511
+s: 13475, empty?: false
+s: 13475, n: 13475, acc[1]: 39326
+s: , empty?: true
+s: 4430, empty?: false
+s: 4430, n: 4430, acc[1]: 0
+s: 8657, empty?: false
+s: 8657, n: 8657, acc[1]: 4430
+s: 2661, empty?: false
+s: 2661, n: 2661, acc[1]: 13087
+s: 7283, empty?: false
+s: 7283, n: 7283, acc[1]: 15748
+s: 5656, empty?: false
+s: 5656, n: 5656, acc[1]: 23031
+s: , empty?: true
+s: 13776, empty?: false
+s: 13776, n: 13776, acc[1]: 0
+s: 4264, empty?: false
+s: 4264, n: 4264, acc[1]: 13776
+s: 15529, empty?: false
+s: 15529, n: 15529, acc[1]: 18040
+s: 16476, empty?: false
+s: 16476, n: 16476, acc[1]: 33569
+s: , empty?: true
+s: 6032, empty?: false
+s: 6032, n: 6032, acc[1]: 0
+s: 10966, empty?: false
+s: 10966, n: 10966, acc[1]: 6032
+s: 3499, empty?: false
+s: 3499, n: 3499, acc[1]: 16998
+s: 6399, empty?: false
+s: 6399, n: 6399, acc[1]: 20497
+s: 3107, empty?: false
+s: 3107, n: 3107, acc[1]: 26896
+s: 7287, empty?: false
+s: 7287, n: 7287, acc[1]: 30003
+s: 4748, empty?: false
+s: 4748, n: 4748, acc[1]: 37290
+s: , empty?: true
+s: 1118, empty?: false
+s: 1118, n: 1118, acc[1]: 0
+s: 2057, empty?: false
+s: 2057, n: 2057, acc[1]: 1118
+s: 2205, empty?: false
+s: 2205, n: 2205, acc[1]: 3175
+s: 4721, empty?: false
+s: 4721, n: 4721, acc[1]: 5380
+s: 4949, empty?: false
+s: 4949, n: 4949, acc[1]: 10101
+s: 7969, empty?: false
+s: 7969, n: 7969, acc[1]: 15050
+s: 5709, empty?: false
+s: 5709, n: 5709, acc[1]: 23019
+s: 4699, empty?: false
+s: 4699, n: 4699, acc[1]: 28728
+s: 4111, empty?: false
+s: 4111, n: 4111, acc[1]: 33427
+s: 5100, empty?: false
+s: 5100, n: 5100, acc[1]: 37538
+s: 1716, empty?: false
+s: 1716, n: 1716, acc[1]: 42638
+s: , empty?: true
+s: 5760, empty?: false
+s: 5760, n: 5760, acc[1]: 0
+s: 4313, empty?: false
+s: 4313, n: 4313, acc[1]: 5760
+s: 4368, empty?: false
+s: 4368, n: 4368, acc[1]: 10073
+s: 3987, empty?: false
+s: 3987, n: 3987, acc[1]: 14441
+s: 6289, empty?: false
+s: 6289, n: 6289, acc[1]: 18428
+s: 3042, empty?: false
+s: 3042, n: 3042, acc[1]: 24717
+s: 6007, empty?: false
+s: 6007, n: 6007, acc[1]: 27759
+s: 5799, empty?: false
+s: 5799, n: 5799, acc[1]: 33766
+s: 4406, empty?: false
+s: 4406, n: 4406, acc[1]: 39565
+s: 4309, empty?: false
+s: 4309, n: 4309, acc[1]: 43971
+s: 5816, empty?: false
+s: 5816, n: 5816, acc[1]: 48280
+s: 5109, empty?: false
+s: 5109, n: 5109, acc[1]: 54096
+s: 1109, empty?: false
+s: 1109, n: 1109, acc[1]: 59205
+s: 2257, empty?: false
+s: 2257, n: 2257, acc[1]: 60314
+s: , empty?: true
+s: 6186, empty?: false
+s: 6186, n: 6186, acc[1]: 0
+s: 3812, empty?: false
+s: 3812, n: 3812, acc[1]: 6186
+s: 5595, empty?: false
+s: 5595, n: 5595, acc[1]: 9998
+s: 4236, empty?: false
+s: 4236, n: 4236, acc[1]: 15593
+s: 6718, empty?: false
+s: 6718, n: 6718, acc[1]: 19829
+s: 3194, empty?: false
+s: 3194, n: 3194, acc[1]: 26547
+s: 4178, empty?: false
+s: 4178, n: 4178, acc[1]: 29741
+s: 1152, empty?: false
+s: 1152, n: 1152, acc[1]: 33919
+s: 5631, empty?: false
+s: 5631, n: 5631, acc[1]: 35071
+s: 3070, empty?: false
+s: 3070, n: 3070, acc[1]: 40702
+s: 5402, empty?: false
+s: 5402, n: 5402, acc[1]: 43772
+s: 2471, empty?: false
+s: 2471, n: 2471, acc[1]: 49174
+s: 4489, empty?: false
+s: 4489, n: 4489, acc[1]: 51645
+s: , empty?: true
+s: 6235, empty?: false
+s: 6235, n: 6235, acc[1]: 0
+s: 1040, empty?: false
+s: 1040, n: 1040, acc[1]: 6235
+s: 2898, empty?: false
+s: 2898, n: 2898, acc[1]: 7275
+s: 4618, empty?: false
+s: 4618, n: 4618, acc[1]: 10173
+s: 1528, empty?: false
+s: 1528, n: 1528, acc[1]: 14791
+s: 2394, empty?: false
+s: 2394, n: 2394, acc[1]: 16319
+s: 6739, empty?: false
+s: 6739, n: 6739, acc[1]: 18713
+s: 3492, empty?: false
+s: 3492, n: 3492, acc[1]: 25452
+s: 4651, empty?: false
+s: 4651, n: 4651, acc[1]: 28944
+s: 1458, empty?: false
+s: 1458, n: 1458, acc[1]: 33595
+s: 2159, empty?: false
+s: 2159, n: 2159, acc[1]: 35053
+s: 5166, empty?: false
+s: 5166, n: 5166, acc[1]: 37212
+s: 3760, empty?: false
+s: 3760, n: 3760, acc[1]: 42378
+s: , empty?: true
+s: 4421, empty?: false
+s: 4421, n: 4421, acc[1]: 0
+s: 5360, empty?: false
+s: 5360, n: 5360, acc[1]: 4421
+s: 3586, empty?: false
+s: 3586, n: 3586, acc[1]: 9781
+s: 5219, empty?: false
+s: 5219, n: 5219, acc[1]: 13367
+s: 1191, empty?: false
+s: 1191, n: 1191, acc[1]: 18586
+s: 3315, empty?: false
+s: 3315, n: 3315, acc[1]: 19777
+s: 3087, empty?: false
+s: 3087, n: 3087, acc[1]: 23092
+s: 6239, empty?: false
+s: 6239, n: 6239, acc[1]: 26179
+s: 5340, empty?: false
+s: 5340, n: 5340, acc[1]: 32418
+s: 6375, empty?: false
+s: 6375, n: 6375, acc[1]: 37758
+s: 3885, empty?: false
+s: 3885, n: 3885, acc[1]: 44133
+s: 6142, empty?: false
+s: 6142, n: 6142, acc[1]: 48018
+s: 5395, empty?: false
+s: 5395, n: 5395, acc[1]: 54160
+s: 1325, empty?: false
+s: 1325, n: 1325, acc[1]: 59555
+s: , empty?: true
+s: 5908, empty?: false
+s: 5908, n: 5908, acc[1]: 0
+s: 3428, empty?: false
+s: 3428, n: 3428, acc[1]: 5908
+s: 1580, empty?: false
+s: 1580, n: 1580, acc[1]: 9336
+s: 8854, empty?: false
+s: 8854, n: 8854, acc[1]: 10916
+s: 7674, empty?: false
+s: 7674, n: 7674, acc[1]: 19770
+s: 6783, empty?: false
+s: 6783, n: 6783, acc[1]: 27444
+s: 3143, empty?: false
+s: 3143, n: 3143, acc[1]: 34227
+s: , empty?: true
+s: 68497, empty?: false
+s: 68497, n: 68497, acc[1]: 0
+s: , empty?: true
+s: 3036, empty?: false
+s: 3036, n: 3036, acc[1]: 0
+s: 8215, empty?: false
+s: 8215, n: 8215, acc[1]: 3036
+s: 2179, empty?: false
+s: 2179, n: 2179, acc[1]: 11251
+s: 6773, empty?: false
+s: 6773, n: 6773, acc[1]: 13430
+s: 8316, empty?: false
+s: 8316, n: 8316, acc[1]: 20203
+s: 6011, empty?: false
+s: 6011, n: 6011, acc[1]: 28519
+s: 6037, empty?: false
+s: 6037, n: 6037, acc[1]: 34530
+s: 5670, empty?: false
+s: 5670, n: 5670, acc[1]: 40567
+s: 7097, empty?: false
+s: 7097, n: 7097, acc[1]: 46237
+s: , empty?: true
+s: 7830, empty?: false
+s: 7830, n: 7830, acc[1]: 0
+s: 6209, empty?: false
+s: 6209, n: 6209, acc[1]: 7830
+s: 1223, empty?: false
+s: 1223, n: 1223, acc[1]: 14039
+s: 1431, empty?: false
+s: 1431, n: 1431, acc[1]: 15262
+s: 1020, empty?: false
+s: 1020, n: 1020, acc[1]: 16693
+s: 4133, empty?: false
+s: 4133, n: 4133, acc[1]: 17713
+s: 6997, empty?: false
+s: 6997, n: 6997, acc[1]: 21846
+s: 7137, empty?: false
+s: 7137, n: 7137, acc[1]: 28843
+s: 4744, empty?: false
+s: 4744, n: 4744, acc[1]: 35980
+s: 2231, empty?: false
+s: 2231, n: 2231, acc[1]: 40724
+s: 4664, empty?: false
+s: 4664, n: 4664, acc[1]: 42955
+s: , empty?: true
+s: 1447, empty?: false
+s: 1447, n: 1447, acc[1]: 0
+s: 2708, empty?: false
+s: 2708, n: 2708, acc[1]: 1447
+s: 5687, empty?: false
+s: 5687, n: 5687, acc[1]: 4155
+s: 3958, empty?: false
+s: 3958, n: 3958, acc[1]: 9842
+s: 2020, empty?: false
+s: 2020, n: 2020, acc[1]: 13800
+s: 1440, empty?: false
+s: 1440, n: 1440, acc[1]: 15820
+s: 4154, empty?: false
+s: 4154, n: 4154, acc[1]: 17260
+s: 1099, empty?: false
+s: 1099, n: 1099, acc[1]: 21414
+s: 2180, empty?: false
+s: 2180, n: 2180, acc[1]: 22513
+s: 1350, empty?: false
+s: 1350, n: 1350, acc[1]: 24693
+s: 2373, empty?: false
+s: 2373, n: 2373, acc[1]: 26043
+s: 4713, empty?: false
+s: 4713, n: 4713, acc[1]: 28416
+s: 4490, empty?: false
+s: 4490, n: 4490, acc[1]: 33129
+s: 4826, empty?: false
+s: 4826, n: 4826, acc[1]: 37619
+s: 4132, empty?: false
+s: 4132, n: 4132, acc[1]: 42445
+s: , empty?: true
+s: 4519, empty?: false
+s: 4519, n: 4519, acc[1]: 0
+s: 2370, empty?: false
+s: 2370, n: 2370, acc[1]: 4519
+s: 4404, empty?: false
+s: 4404, n: 4404, acc[1]: 6889
+s: 2085, empty?: false
+s: 2085, n: 2085, acc[1]: 11293
+s: 5084, empty?: false
+s: 5084, n: 5084, acc[1]: 13378
+s: 3342, empty?: false
+s: 3342, n: 3342, acc[1]: 18462
+s: 1952, empty?: false
+s: 1952, n: 1952, acc[1]: 21804
+s: 4132, empty?: false
+s: 4132, n: 4132, acc[1]: 23756
+s: 5152, empty?: false
+s: 5152, n: 5152, acc[1]: 27888
+s: 3370, empty?: false
+s: 3370, n: 3370, acc[1]: 33040
+s: 2958, empty?: false
+s: 2958, n: 2958, acc[1]: 36410
+s: 6152, empty?: false
+s: 6152, n: 6152, acc[1]: 39368
+s: 6281, empty?: false
+s: 6281, n: 6281, acc[1]: 45520
+s: , empty?: true
+s: 8688, empty?: false
+s: 8688, n: 8688, acc[1]: 0
+s: 5261, empty?: false
+s: 5261, n: 5261, acc[1]: 8688
+s: 14869, empty?: false
+s: 14869, n: 14869, acc[1]: 13949
+s: 7408, empty?: false
+s: 7408, n: 7408, acc[1]: 28818
+s: 1789, empty?: false
+s: 1789, n: 1789, acc[1]: 36226
+s: , empty?: true
+s: 5319, empty?: false
+s: 5319, n: 5319, acc[1]: 0
+s: 6704, empty?: false
+s: 6704, n: 6704, acc[1]: 5319
+s: 1173, empty?: false
+s: 1173, n: 1173, acc[1]: 12023
+s: 2404, empty?: false
+s: 2404, n: 2404, acc[1]: 13196
+s: 4081, empty?: false
+s: 4081, n: 4081, acc[1]: 15600
+s: 5783, empty?: false
+s: 5783, n: 5783, acc[1]: 19681
+s: 2538, empty?: false
+s: 2538, n: 2538, acc[1]: 25464
+s: 2725, empty?: false
+s: 2725, n: 2725, acc[1]: 28002
+s: 5682, empty?: false
+s: 5682, n: 5682, acc[1]: 30727
+s: 5151, empty?: false
+s: 5151, n: 5151, acc[1]: 36409
+s: 1016, empty?: false
+s: 1016, n: 1016, acc[1]: 41560
+s: 4692, empty?: false
+s: 4692, n: 4692, acc[1]: 42576
+s: , empty?: true
+s: 15712, empty?: false
+s: 15712, n: 15712, acc[1]: 0
+s: 2371, empty?: false
+s: 2371, n: 2371, acc[1]: 15712
+s: 15487, empty?: false
+s: 15487, n: 15487, acc[1]: 18083
+s: 7088, empty?: false
+s: 7088, n: 7088, acc[1]: 33570
+s: 7550, empty?: false
+s: 7550, n: 7550, acc[1]: 40658
+s: , empty?: true
+s: 2036, empty?: false
+s: 2036, n: 2036, acc[1]: 0
+s: 6286, empty?: false
+s: 6286, n: 6286, acc[1]: 2036
+s: 1362, empty?: false
+s: 1362, n: 1362, acc[1]: 8322
+s: 4833, empty?: false
+s: 4833, n: 4833, acc[1]: 9684
+s: 3897, empty?: false
+s: 3897, n: 3897, acc[1]: 14517
+s: 4488, empty?: false
+s: 4488, n: 4488, acc[1]: 18414
+s: 7093, empty?: false
+s: 7093, n: 7093, acc[1]: 22902
+s: 2114, empty?: false
+s: 2114, n: 2114, acc[1]: 29995
+s: 4553, empty?: false
+s: 4553, n: 4553, acc[1]: 32109
+s: 4644, empty?: false
+s: 4644, n: 4644, acc[1]: 36662
+s: 2014, empty?: false
+s: 2014, n: 2014, acc[1]: 41306
+s: , empty?: true
+s: 7265, empty?: false
+s: 7265, n: 7265, acc[1]: 0
+s: 4039, empty?: false
+s: 4039, n: 4039, acc[1]: 7265
+s: 4651, empty?: false
+s: 4651, n: 4651, acc[1]: 11304
+s: 6351, empty?: false
+s: 6351, n: 6351, acc[1]: 15955
+s: 3695, empty?: false
+s: 3695, n: 3695, acc[1]: 22306
+s: 6958, empty?: false
+s: 6958, n: 6958, acc[1]: 26001
+s: 6388, empty?: false
+s: 6388, n: 6388, acc[1]: 32959
+s: 5849, empty?: false
+s: 5849, n: 5849, acc[1]: 39347
+s: 4218, empty?: false
+s: 4218, n: 4218, acc[1]: 45196
+s: 1095, empty?: false
+s: 1095, n: 1095, acc[1]: 49414
+s: 6862, empty?: false
+s: 6862, n: 6862, acc[1]: 50509
+s: 5034, empty?: false
+s: 5034, n: 5034, acc[1]: 57371
+s: , empty?: true
+s: 13093, empty?: false
+s: 13093, n: 13093, acc[1]: 0
+s: 10728, empty?: false
+s: 10728, n: 10728, acc[1]: 13093
+s: 1093, empty?: false
+s: 1093, n: 1093, acc[1]: 23821
+s: 6368, empty?: false
+s: 6368, n: 6368, acc[1]: 24914
+s: 9357, empty?: false
+s: 9357, n: 9357, acc[1]: 31282
+s: , empty?: true
+s: 9257, empty?: false
+s: 9257, n: 9257, acc[1]: 0
+s: , empty?: true
+s: 6583, empty?: false
+s: 6583, n: 6583, acc[1]: 0
+s: 9137, empty?: false
+s: 9137, n: 9137, acc[1]: 6583
+s: 13032, empty?: false
+s: 13032, n: 13032, acc[1]: 15720
+s: 14163, empty?: false
+s: 14163, n: 14163, acc[1]: 28752
+s: , empty?: true
+s: 6674, empty?: false
+s: 6674, n: 6674, acc[1]: 0
+s: 6220, empty?: false
+s: 6220, n: 6220, acc[1]: 6674
+s: 9299, empty?: false
+s: 9299, n: 9299, acc[1]: 12894
+s: 7534, empty?: false
+s: 7534, n: 7534, acc[1]: 22193
+s: 2674, empty?: false
+s: 2674, n: 2674, acc[1]: 29727
+s: 3144, empty?: false
+s: 3144, n: 3144, acc[1]: 32401
+s: 3926, empty?: false
+s: 3926, n: 3926, acc[1]: 35545
+s: 7519, empty?: false
+s: 7519, n: 7519, acc[1]: 39471
+s: 8135, empty?: false
+s: 8135, n: 8135, acc[1]: 46990
+s: , empty?: true
+s: 7207, empty?: false
+s: 7207, n: 7207, acc[1]: 0
+s: 8978, empty?: false
+s: 8978, n: 8978, acc[1]: 7207
+s: 8371, empty?: false
+s: 8371, n: 8371, acc[1]: 16185
+s: 4569, empty?: false
+s: 4569, n: 4569, acc[1]: 24556
+s: 3486, empty?: false
+s: 3486, n: 3486, acc[1]: 29125
+s: 1132, empty?: false
+s: 1132, n: 1132, acc[1]: 32611
+s: 9219, empty?: false
+s: 9219, n: 9219, acc[1]: 33743
+s: 3406, empty?: false
+s: 3406, n: 3406, acc[1]: 42962
+s: 8054, empty?: false
+s: 8054, n: 8054, acc[1]: 46368
+s: , empty?: true
+s: 3298, empty?: false
+s: 3298, n: 3298, acc[1]: 0
+s: 1198, empty?: false
+s: 1198, n: 1198, acc[1]: 3298
+s: 2238, empty?: false
+s: 2238, n: 2238, acc[1]: 4496
+s: 4091, empty?: false
+s: 4091, n: 4091, acc[1]: 6734
+s: 6469, empty?: false
+s: 6469, n: 6469, acc[1]: 10825
+s: 3444, empty?: false
+s: 3444, n: 3444, acc[1]: 17294
+s: 2982, empty?: false
+s: 2982, n: 2982, acc[1]: 20738
+s: 4702, empty?: false
+s: 4702, n: 4702, acc[1]: 23720
+s: 3283, empty?: false
+s: 3283, n: 3283, acc[1]: 28422
+s: 3008, empty?: false
+s: 3008, n: 3008, acc[1]: 31705
+s: 1585, empty?: false
+s: 1585, n: 1585, acc[1]: 34713
+s: 2615, empty?: false
+s: 2615, n: 2615, acc[1]: 36298
+s: 5732, empty?: false
+s: 5732, n: 5732, acc[1]: 38913
+s: 1548, empty?: false
+s: 1548, n: 1548, acc[1]: 44645
+s: , empty?: true
+s: 3857, empty?: false
+s: 3857, n: 3857, acc[1]: 0
+s: 4772, empty?: false
+s: 4772, n: 4772, acc[1]: 3857
+s: 5318, empty?: false
+s: 5318, n: 5318, acc[1]: 8629
+s: 3561, empty?: false
+s: 3561, n: 3561, acc[1]: 13947
+s: 5852, empty?: false
+s: 5852, n: 5852, acc[1]: 17508
+s: 5463, empty?: false
+s: 5463, n: 5463, acc[1]: 23360
+s: 6379, empty?: false
+s: 6379, n: 6379, acc[1]: 28823
+s: 4695, empty?: false
+s: 4695, n: 4695, acc[1]: 35202
+s: 4863, empty?: false
+s: 4863, n: 4863, acc[1]: 39897
+s: 5184, empty?: false
+s: 5184, n: 5184, acc[1]: 44760
+s: 3930, empty?: false
+s: 3930, n: 3930, acc[1]: 49944
+s: 3871, empty?: false
+s: 3871, n: 3871, acc[1]: 53874
+s: 6221, empty?: false
+s: 6221, n: 6221, acc[1]: 57745
+s: 5660, empty?: false
+s: 5660, n: 5660, acc[1]: 63966
+s: , empty?: true
+None: [68657, 69626]
+s: 4785, empty?: false
+s: 4785, n: 4785, acc[1]: 0
+s: 8879, empty?: false
+s: 8879, n: 8879, acc[1]: 4785
+s: 2905, empty?: false
+s: 2905, n: 2905, acc[1]: 13664
+s: 11710, empty?: false
+s: 11710, n: 11710, acc[1]: 16569
+s: 4284, empty?: false
+s: 4284, n: 4284, acc[1]: 28279
+s: 7761, empty?: false
+s: 7761, n: 7761, acc[1]: 32563
+s: 10781, empty?: false
+s: 10781, n: 10781, acc[1]: 40324
+s: , empty?: true
+s: 13650, empty?: false
+s: 13650, n: 13650, acc[1]: 0
+s: 19208, empty?: false
+s: 19208, n: 19208, acc[1]: 13650
+s: 2344, empty?: false
+s: 2344, n: 2344, acc[1]: 32858
+s: , empty?: true
+s: 8569, empty?: false
+s: 8569, n: 8569, acc[1]: 0
+s: 3740, empty?: false
+s: 3740, n: 3740, acc[1]: 8569
+s: 6560, empty?: false
+s: 6560, n: 6560, acc[1]: 12309
+s: 4918, empty?: false
+s: 4918, n: 4918, acc[1]: 18869
+s: 8880, empty?: false
+s: 8880, n: 8880, acc[1]: 23787
+s: 8863, empty?: false
+s: 8863, n: 8863, acc[1]: 32667
+s: 7939, empty?: false
+s: 7939, n: 7939, acc[1]: 41530
+s: 4336, empty?: false
+s: 4336, n: 4336, acc[1]: 49469
+s: 7011, empty?: false
+s: 7011, n: 7011, acc[1]: 53805
+s: , empty?: true
+s: 2667, empty?: false
+s: 2667, n: 2667, acc[1]: 0
+s: 1542, empty?: false
+s: 1542, n: 1542, acc[1]: 2667
+s: 2663, empty?: false
+s: 2663, n: 2663, acc[1]: 4209
+s: 5613, empty?: false
+s: 5613, n: 5613, acc[1]: 6872
+s: 3498, empty?: false
+s: 3498, n: 3498, acc[1]: 12485
+s: 5582, empty?: false
+s: 5582, n: 5582, acc[1]: 15983
+s: 2221, empty?: false
+s: 2221, n: 2221, acc[1]: 21565
+s: 3450, empty?: false
+s: 3450, n: 3450, acc[1]: 23786
+s: 1197, empty?: false
+s: 1197, n: 1197, acc[1]: 27236
+s: 1689, empty?: false
+s: 1689, n: 1689, acc[1]: 28433
+s: 2995, empty?: false
+s: 2995, n: 2995, acc[1]: 30122
+s: 5470, empty?: false
+s: 5470, n: 5470, acc[1]: 33117
+s: 2690, empty?: false
+s: 2690, n: 2690, acc[1]: 38587
+s: 3276, empty?: false
+s: 3276, n: 3276, acc[1]: 41277
+s: 4921, empty?: false
+s: 4921, n: 4921, acc[1]: 44553
+s: , empty?: true
+s: 3855, empty?: false
+s: 3855, n: 3855, acc[1]: 0
+s: 7774, empty?: false
+s: 7774, n: 7774, acc[1]: 3855
+s: 1732, empty?: false
+s: 1732, n: 1732, acc[1]: 11629
+s: 2700, empty?: false
+s: 2700, n: 2700, acc[1]: 13361
+s: 4298, empty?: false
+s: 4298, n: 4298, acc[1]: 16061
+s: 9114, empty?: false
+s: 9114, n: 9114, acc[1]: 20359
+s: 8771, empty?: false
+s: 8771, n: 8771, acc[1]: 29473
+s: 3158, empty?: false
+s: 3158, n: 3158, acc[1]: 38244
+s: , empty?: true
+s: 6031, empty?: false
+s: 6031, n: 6031, acc[1]: 0
+s: 3440, empty?: false
+s: 3440, n: 3440, acc[1]: 6031
+s: 5887, empty?: false
+s: 5887, n: 5887, acc[1]: 9471
+s: 1245, empty?: false
+s: 1245, n: 1245, acc[1]: 15358
+s: 3021, empty?: false
+s: 3021, n: 3021, acc[1]: 16603
+s: 5776, empty?: false
+s: 5776, n: 5776, acc[1]: 19624
+s: 1208, empty?: false
+s: 1208, n: 1208, acc[1]: 25400
+s: 1994, empty?: false
+s: 1994, n: 1994, acc[1]: 26608
+s: 2411, empty?: false
+s: 2411, n: 2411, acc[1]: 28602
+s: 4057, empty?: false
+s: 4057, n: 4057, acc[1]: 31013
+s: 2959, empty?: false
+s: 2959, n: 2959, acc[1]: 35070
+s: 1907, empty?: false
+s: 1907, n: 1907, acc[1]: 38029
+s: 1619, empty?: false
+s: 1619, n: 1619, acc[1]: 39936
+s: 2028, empty?: false
+s: 2028, n: 2028, acc[1]: 41555
+s: 3623, empty?: false
+s: 3623, n: 3623, acc[1]: 43583
+s: , empty?: true
+s: 9806, empty?: false
+s: 9806, n: 9806, acc[1]: 0
+s: 3996, empty?: false
+s: 3996, n: 3996, acc[1]: 9806
+s: 5730, empty?: false
+s: 5730, n: 5730, acc[1]: 13802
+s: 10168, empty?: false
+s: 10168, n: 10168, acc[1]: 19532
+s: 1726, empty?: false
+s: 1726, n: 1726, acc[1]: 29700
+s: 7068, empty?: false
+s: 7068, n: 7068, acc[1]: 31426
+s: , empty?: true
+s: 5828, empty?: false
+s: 5828, n: 5828, acc[1]: 0
+s: 9183, empty?: false
+s: 9183, n: 9183, acc[1]: 5828
+s: 7422, empty?: false
+s: 7422, n: 7422, acc[1]: 15011
+s: 5496, empty?: false
+s: 5496, n: 5496, acc[1]: 22433
+s: 1545, empty?: false
+s: 1545, n: 1545, acc[1]: 27929
+s: 2606, empty?: false
+s: 2606, n: 2606, acc[1]: 29474
+s: 7731, empty?: false
+s: 7731, n: 7731, acc[1]: 32080
+s: 3582, empty?: false
+s: 3582, n: 3582, acc[1]: 39811
+s: 8998, empty?: false
+s: 8998, n: 8998, acc[1]: 43393
+s: , empty?: true
+s: 4087, empty?: false
+s: 4087, n: 4087, acc[1]: 0
+s: 5317, empty?: false
+s: 5317, n: 5317, acc[1]: 4087
+s: 6045, empty?: false
+s: 6045, n: 6045, acc[1]: 9404
+s: 4977, empty?: false
+s: 4977, n: 4977, acc[1]: 15449
+s: 3043, empty?: false
+s: 3043, n: 3043, acc[1]: 20426
+s: 6360, empty?: false
+s: 6360, n: 6360, acc[1]: 23469
+s: 3730, empty?: false
+s: 3730, n: 3730, acc[1]: 29829
+s: 2012, empty?: false
+s: 2012, n: 2012, acc[1]: 33559
+s: 4994, empty?: false
+s: 4994, n: 4994, acc[1]: 35571
+s: 7160, empty?: false
+s: 7160, n: 7160, acc[1]: 40565
+s: 6253, empty?: false
+s: 6253, n: 6253, acc[1]: 47725
+Some(69626)
